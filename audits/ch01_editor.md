@@ -1,22 +1,29 @@
 # Editor — ch01
 
+Ghi chú quy trình: ch01 là chương đầu tiên, không có 2 chương liền trước để đọc — bỏ qua bước đó theo đúng lý do (không tồn tại file).
+
 ## BLOCKER
 (không có)
 
 ## MAJOR
-
-- **Sơ đồ mặt trống bắt buộc (Lớp 1, dòng 27–40) hiển thị đủ 9 tên nốt (C5, A4, G4, F4, E4, D4, C4, Bb3, A3) và số thứ tự ①–⑨, trong khi specs/ch01.md liệt "tên nốt khác D3" và "tone field (số ô quanh Ding)" vào mục Cấm đụng.** Bài đã cố hoá giải bằng câu "Bạn không cần đọc chữ trong mấy ô còn lại đâu — coi như chưa nhìn thấy chúng cũng được" (dòng 42), đây là cách xử lý tốt nhất có thể vì CLAUDE.md mục 1 bắt buộc copy sơ đồ nguyên xi, không cho vẽ lại hay lược bớt. Nhưng xét đúng câu chữ của spec, khái niệm vẫn "lộ" ra trang giấy trước khi được dạy — MAJOR theo đúng tiêu chí "nợ khái niệm".
-  → **Sửa**: đây là xung đột ở cấp dự án (CLAUDE.md bắt buộc sơ đồ đầy đủ ↔ spec ch01 cấm nêu tên nốt khác D3), không phải lỗi do người viết chương tự ý thêm. Đề xuất bổ sung một dòng ngoại lệ tường minh vào specs/ch01.md, kiểu: "Ngoại lệ: sơ đồ mặt trống bắt buộc copy nguyên xi từ facts/dkurd.md vẫn hiển thị đủ 9 tên nốt — không tính là vi phạm Cấm đụng miễn có câu dẫn dắt yêu cầu người đọc bỏ qua, như bản ch01 hiện tại đã làm." Nếu không sửa spec, mọi chương mở đầu có sơ đồ sau này sẽ tiếp tục dính lỗi này.
-
-- **Hàng "Tay" trong cả hai khối bài tập hiển thị ký hiệu "P"** — đúng thứ bị liệt vào Cấm đụng của spec ("tay phải/trái (P/T)"). Bài đã có 2 câu vô hiệu hoá, nhưng câu ở dòng 79 nói **sai chủ đề chương 2**: "Hàng 'Tay' bên dưới cũng bỏ qua luôn — chuyện tay nào gõ để dành cho chương 2." Theo mục Móc nối của chính specs/ch01.md, chương 2 dạy "cách gõ bằng đầu ngón/mô ngón cái" (kỹ thuật chạm tay), **không phải** chuyện chọn tay phải hay tay trái (khái niệm P/T, theo glossary.md gắn với zigzag — một chương xa hơn nhiều). Câu này hứa sai nội dung chương sau, người đọc qua chương 2 sẽ không thấy câu trả lời cho "tay nào" như đã được hẹn, gây hụt hẫng/mất tin cậy vào mạch sách.
-  → **Sửa cụ thể**: đổi câu ở dòng 79 thành, ví dụ: "Hàng 'Tay' bên dưới cũng bỏ qua luôn — đó là chi tiết kỹ thuật của lưới bài tập, không phải điều bạn cần lo hôm nay." (bỏ hẳn vế "để dành cho chương 2" vì không đúng chủ đề chương 2). Câu vô hiệu hoá thứ hai ở dòng 81 ("Ký hiệu 'P' ở hàng Tay chỉ là mặc định kỹ thuật... không có nghĩa là bạn phải dùng tay phải") đã ổn, giữ nguyên.
+- Lời văn dẫn dắt cho hàng "Tay" trong bài tập 1 (Lớp 3) gọi thẳng tên khái niệm bị cấm: *"Ký hiệu 'P' ở hàng Tay chỉ là mặc định kỹ thuật của lưới bài tập — **không có nghĩa là bạn phải dùng tay phải**. Ở chương này, gõ tay nào cũng được, không cần để ý hàng này."* (dòng ngay trước khối `sach_ch01_bai1`). Spec `ch01` liệt "tay phải/trái (P/T)" vào mục Cấm đụng và ghi rõ "cấm NHẮC/GIẢNG các khái niệm này trong lời văn". Ngoại lệ bắt buộc trong spec chỉ áp dụng cho sơ đồ mặt trống ASCII, không mở rộng cho hàng Tay của lưới tab. Câu này gọi tên "tay phải" trực tiếp, vượt quá phạm vi ngoại lệ được cấp.
+  → **Sửa cụ thể**: bỏ cụm "không có nghĩa là bạn phải dùng tay phải", chỉ giữ phần dặn bỏ qua hàng, ví dụ: *"Ký hiệu 'P' ở hàng Tay là mặc định của lưới bài tập, chương nào trong sách cũng có — hôm nay bạn chưa cần để ý, gõ tay nào tuỳ thích."* Câu trước đó ("Hàng 'Tay' bên dưới cũng bỏ qua luôn — đó là chi tiết kỹ thuật của lưới bài tập, không phải điều bạn cần lo hôm nay.") đã đủ làm nhiệm vụ dẫn dắt, không cần thêm câu giải thích chữ P là gì.
 
 ## MINOR
-
-- "handpan" xuất hiện lần đầu ở dòng 7 ("Chơi handpan bắt đầu y hệt vậy") mà không có chú thích tiếng Việt kèm theo, trong khi CLAUDE.md mục 0 yêu cầu thuật ngữ tiếng Anh lần đầu xuất hiện phải kèm giải thích. Từ này không có trong `facts/glossary.md`. Có thể chấp nhận vì đây là tên sản phẩm ngay trong tựa sách, nhưng để đúng luật thì nên sửa, ví dụ: "Chơi handpan (cây trống kim loại hình đĩa bạn đang cầm) bắt đầu y hệt vậy...".
-- Đoạn giải thích sơ đồ (dòng 42) đặt câu "bạn không cần đọc chữ trong mấy ô còn lại" *sau* khi đã show cả sơ đồ — có thể cân nhắc đặt câu dẫn dắt "chỉ cần nhìn đúng một điểm ở giữa" ngay trước khối sơ đồ, để mắt người đọc không kịp lướt qua 9 tên nốt trước khi được hướng dẫn bỏ qua. Không bắt buộc sửa, chỉ là gợi ý UX câu chữ.
+- Tiêu đề chương lệch số: spec ghi "Chương 01", bản thảo ghi "Chương 1" (thiếu số 0 đứng đầu). Không ảnh hưởng nội dung nhưng nên đồng bộ format số chương xuyên sách → đổi thành "# Chương 01 — Tiếng đầu tiên" nếu các chương khác đều dùng 2 chữ số.
+- Tiêu đề mỗi ô trong Bài tập 1 chỉ ghi "Ô N · tự do", thiếu phần `<tên phách>` như mẫu chuẩn trong `facts/tab-notation.md` ("Ô 3 · 4/4 · móc đơn"). Hợp lý vì bài tập này đúng là nhịp tự do (theo spec), nhưng để nhất quán định dạng toàn sách có thể ghi rõ hơn, ví dụ "Ô 1 · 4/4 · tự do (không đếm phách)".
 
 ## Chuyển fact-checker
-(không có nội dung nào cần fact-checker xác minh riêng — mọi khẳng định về Ding/D3 khớp với facts/dkurd.md ở mức đọc thông thường của editor.)
+- Không có nghi vấn nhạc lý. Đề nghị fact-checker xác nhận riêng: cách đánh số hàng "móc đơn" trong Bài tập 2 (chuỗi `1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 .` cho ô nhịp 4/4, 16 cột) có khớp đúng quy tắc sinh cột của `bin/sach_tab_sang_json.py` như mô tả ở `facts/tab-notation.md` mục 5 không — đây là chi tiết kỹ thuật ngoài phạm vi soát của editor.
 
-## KẾT LUẬN: SỬA (0 blocker, 2 major)
+## Nhận xét thêm (không chặn, chỉ ghi nhận)
+- Đúng spec: mục tiêu học ("gõ được Ding, đặt tay đúng chỗ, nghe trọn tiếng ngân") được phủ đủ cả 3 lớp, không lấn sang nội dung chương 2 (kỹ thuật gõ) hay chương 3 (Ding là nhà) — chỉ "gieo mầm" đúng như mục Móc nối yêu cầu.
+- Nợ khái niệm: rà toàn bộ lời văn, không thấy dùng "tone field", "zigzag", "hợp âm", "quãng", "thang âm", "ghost note" — sạch, trừ điểm MAJOR về "tay phải" nêu trên. "Chủ âm" dùng đúng như mục Được phép dùng (chỉ gọi tên, không giảng lý thuyết).
+- Đủ 3 lớp: cả 3 lớp đều có. Lớp 1 đếm tay được khoảng 1.250 từ — nằm trong khoảng 1200–1500 từ yêu cầu, không phải MAJOR.
+- Sơ đồ mặt trống copy đúng nguyên xi từ `facts/dkurd.md` (đối chiếu từng ký tự, khớp 100%), có câu dẫn dắt ngay sau sơ đồ yêu cầu bỏ qua các nhãn chưa cần dùng — đúng điều kiện ngoại lệ bắt buộc của spec.
+- Hình dung bằng chữ: đạt — mô tả Ding là "cái lõm tròn nằm ngay giữa", "hơi lõm xuống so với phần còn lại", và đặc biệt câu "khi bạn ngồi ôm trống trong lòng, tâm đó cũng chính là điểm gần bạn nhất" tạo được cảm giác không gian thật trên mặt trống, không chỉ liệt kê tên nốt.
+- Kiểu piano/guitar: không có — chương chỉ nói về một điểm duy nhất (Ding ở tâm), không mô tả gì có thể hiểu nhầm là bàn phím thẳng hàng.
+- Giọng văn: đúng tinh thần "cà phê với bạn thân", không lên lớp, ẩn dụ giọt nước/tiếng chuông nhẹ nhàng, không thô. Đoạn trấn an người mới ("Cây trống này sinh ra để bạn được thư giãn, không phải để thi") khớp đúng mục 4 CLAUDE.md.
+- Hack Lớp 3 dùng được ngay, không đòi hỏi nhớ lý thuyết, khớp with hack trong spec, có thêm một câu chốt hợp lý ("Làm vậy vài lần là đủ để đầu óc chậm lại") không vi phạm gì.
+
+## KẾT LUẬN: SỬA (0 blocker, 1 major)
