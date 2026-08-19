@@ -1,25 +1,25 @@
-# Editor — ch03
+# Editor — ch03 (vòng soát 2)
 
 ## BLOCKER
 (không có)
 
 ## MAJOR
-- **Lớp 1 sát/dưới ngưỡng từ tối thiểu.** Đếm tay 9 đoạn văn Lớp 1 ra khoảng **~1180 từ**, thấp hơn hoặc sát đáy khoảng 1200–1500 từ quy định ở CLAUDE.md mục 2. Con số đếm tay có sai số, nhưng đủ gần ngưỡng để đáng lo. → Đếm lại bằng công cụ chính xác; nếu dưới 1200, bổ sung 1–2 câu ở đoạn "Đừng lo nếu lúc đầu tay bạn hơi lóng ngóng..." (đoạn cuối Lớp 1) — ví dụ thêm một tình huống đời thường thứ hai về quãng tám (chuông nhà thờ ở gần nghe trầm, ở xa vọng lại nghe cao hơn — vẫn cùng một tiếng chuông) để vừa kéo dài vừa củng cố khái niệm, không phải nhồi chữ vô nghĩa.
-
-- **Hai bài tập thiếu yếu tố bắt buộc theo `facts/tab-notation.md`:**
-  1. Mục 2 quy định "Ghi tiêu đề mỗi ô: `Ô N · <nhịp> · <tên phách>` (vd `Ô 3 · 4/4 · móc đơn`)". Cả khối `sach_ch03_bai1` lẫn `sach_ch03_bai2` không có dòng tiêu đề này trước khối ```` ```tab ````.
-  2. Mục 4 "Luật viết bài tập" quy định phải "Ghi tốc độ gợi ý bằng chữ (chậm — vừa — nhanh)". Hướng dẫn bài tập 1 chỉ viết "gõ ở lực bình thường, không vội" — không có chữ chậm/vừa/nhanh rõ ràng; bài tập 2 không đề cập tốc độ.
-  → Thêm dòng `Ô 1 · 4/4 · móc kép` (16 cột cho 4/4 tương ứng móc kép — nhờ fact-checker xác nhận đúng tên phách) ngay trước mỗi khối code của cả hai bài tập, và thêm câu tường minh kiểu "Gõ ở tốc độ chậm, không cần đúng nhịp máy" trong phần dẫn của cả bài 1 và bài 2.
+- **Nhắc tên khái niệm bị cấm đụng: "nửa cung".** Spec ch03 mục Cấm đụng ghi rõ: "quãng tính bằng nửa cung... cấm NHẮC/GIẢNG các khái niệm này trong lời văn." Lớp 1, đoạn 3 (đoạn giải thích D4/quãng tám bằng ẩn dụ ống chuông gió) có câu: "Không cần nhớ số nửa cung, không cần lý thuyết cao siêu — cứ nhớ: quãng tám là hai nốt cùng tên...". Dù ý câu là trấn an ("không cần nhớ"), câu vẫn **gọi tên** "nửa cung" — đúng chữ bị cấm NHẮC, không chỉ cấm GIẢNG. Người đọc mới ở chương 3 chưa từng thấy khái niệm nửa cung, việc chương buông ra một thuật ngữ kỹ thuật rồi bảo "khỏi cần nhớ" vẫn gieo một khái niệm nợ vào đầu, không khác gì nhắc rồi né. → Sửa câu thành không gọi tên kỹ thuật, ví dụ: "Không cần nhớ con số kỹ thuật nào, không cần lý thuyết cao siêu — cứ nhớ: quãng tám là hai nốt cùng tên, một ở tầng thấp một ở tầng cao, gõ nốt nào tai cũng nhận ra chung một gốc."
 
 ## MINOR
-- Hàng `Tay` ở cả hai bài tập in cụ thể `P` tại mọi vị trí gõ, trong khi văn bản ngay phía trên dặn "Hàng 'Tay' hôm nay cứ bỏ qua, dùng tay nào thuận cũng được". Mâu thuẫn nhỏ: nếu bảo bỏ qua thì tại sao vẫn in giá trị cụ thể? → Thêm ngoặc giải thích ngắn "(P ở đây chỉ là giá trị mặc định của định dạng in, không phải hướng dẫn tay bạn phải dùng)" ngay sau câu dặn bỏ qua, để tránh trẻ 10 tuổi thắc mắc.
-- Hack #2 ở Lớp 3 ("gõ Ding rồi gõ D4 ngay sau, lặp lại") gần như lặp lại y hệt Bài tập 1, ít giá trị gia tăng so với một hack độc lập. → Đổi thành mẹo khác, ví dụ mẹo sờ tay tìm D4 không cần nhìn: "Từ Ding, lướt ngón cái sang trái độ một gang tay là chạm D4 — không cần nhìn trống."
-- Câu dẫn vào sơ đồ ("Đây là sơ đồ đầy đủ của mặt trống D Kurd — bạn sẽ thấy khá nhiều tên nốt lạ...") tuy đã có câu dặn bỏ qua (đúng yêu cầu ngoại lệ bắt buộc của spec) nhưng hơi dài dòng, có thể khiến người đọc tò mò các nhãn còn lại. Không bắt buộc sửa, chỉ ghi vào punchlist nếu rảnh.
+- **Lớp 1 đang sát trần trên (~1459 từ theo đếm tay).** Nằm trong khoảng 1200–1500 quy định nên chưa phải MAJOR, nhưng biên độ đếm tay dao động vài chục từ có thể đẩy qua 1500. → Đếm lại bằng công cụ chính xác trước khi khoá bản; nếu vượt 1500, đoạn dư nhiều từ nhất là đoạn giải thích "nhịp" trong Bài tập 1 (đoạn 7, ẩn dụ nhịp bước chân) — có thể rút gọn khoảng 30–40 từ ở đó mà không mất ý.
+- **Đoạn giải thích "nhịp là gì" (Lớp 1, đoạn Bài tập 1) hơi lấn phạm vi spec.** Spec ch03 chỉ liệt kê 2 khái niệm chương này giới thiệu là chủ âm và quãng tám; "nhịp" không nằm trong danh sách "Được phép dùng" lẫn "Khái niệm chương này giới thiệu", nhưng chương lại dựng hẳn một ẩn dụ riêng (bước chân trái–phải, đếm "một"–"hai") để định nghĩa nó, tốn khoảng 60–70 từ. Bản thân "nhịp 4/4" đã từng xuất hiện ở bài tập chương 1 mà không cần định nghĩa hình thức. Không sai nhạc lý, không thuộc mục Cấm đụng của ch03, nên không nâng MAJOR — nhưng đây là chỗ hợp lý nhất để cắt bớt nếu cần hạ tổng số từ Lớp 1 xuống dưới trần.
+- **"tone field" không có trong mục "Được phép dùng" của spec ch03** (dù đã dạy ở chương 2 và không nằm trong mục Cấm đụng của ch03) — dùng ở đoạn 3 và đoạn 5 ("một tone field khác trên trống", "cái tone field lồi lên"). Nhiều khả năng đây là thiếu sót liệt kê của spec (khái niệm carry-over từ chương trước thường không được liệt kê lại), không phải lỗi thật của bản thảo. Không chặn, chỉ ghi chú để người viết spec cân nhắc bổ sung "tone field" vào "Được phép dùng" của các chương sau cho rõ ràng.
 
 ## Chuyển fact-checker
-- Xác nhận mô tả vị trí D4 "ngay dưới bên trái Ding" (Lớp 1, đoạn sau sơ đồ) khớp chính xác với `facts/dkurd.md` mục 2 — nhìn bằng mắt thấy khớp nhưng cần người có thẩm quyền xác nhận chính thức.
-- Xác nhận cách diễn giải cảm tính về "quãng tám" (Lớp 1 đoạn 3 và đoạn bài tập 1, Lớp 2, Lớp 3) không sai lệch nhạc lý, dù không dùng số nửa cung (đúng yêu cầu Cấm đụng của chương).
-- Xác nhận nhịp bài tập 2: Ding tại cột 1 và 3 (cách nhau 1 ô trống), D4 tại cột 5 và 7, Ding giữ (▬) từ cột 9 đến 16 — có đúng khớp ý "Ding hai lần — D4 hai lần — Ding một lần dài (giữ)" của spec bài tập 2, và đúng chuẩn 16 cột cho nhịp 4/4 không.
-- Xác nhận việc thiếu dòng tiêu đề "Ô N · <nhịp> · <tên phách>" có làm hỏng việc parse của `bin/sach_tab_sang_json.py` hay chỉ là quy ước trình bày — ảnh hưởng tới việc mục MAJOR thứ hai ở trên có nên nâng thành BLOCKER hay không.
+- Xác nhận tên phách "móc kép" (16 cột cho 4/4) có đúng thuật ngữ khi các tiếng gõ trong Bài tập 1 và Bài tập 2 chỉ rơi vào các cột cách nhau 4 ô (tức nhịp phách đơn/quarter, không phải nhịp 16) — lưới 16 cột là đúng quy ước G16 của `facts/tab-notation.md`, nhưng nhãn "móc kép" mô tả mật độ nốt thực tế hay chỉ mô tả độ phân giải lưới, cần người có thẩm quyền xác nhận cách dùng nhất quán với các chương khác.
+- Xác nhận việc Bài tập 1 chỉ có 3 tiếng gõ (Ding cột 1, D4 cột 5, Ding cột 9) trong khi nhịp 4/4 có 4 phách — phách thứ 4 (cột 13–16) để trống hoàn toàn, không có `▬` giữ nốt Ding thứ hai. Có khớp đúng ý "mỗi nốt ngân trọn 1 nhịp" của spec bài tập 1 không, hay thiếu một chỉ dẫn giữ/tắt tiếng ở phách cuối.
+- Xác nhận lại (đã đối chiếu bằng mắt, khớp) Bài tập 2: Ding tại cột 1 và 3, D4 tại cột 5 và 7, Ding giữ (▬) từ cột 9 tới 16 — đúng ý "Ding hai lần — D4 hai lần — Ding một lần dài (giữ)" của spec.
 
-## KẾT LUẬN: SỬA (0 blocker, 2 major)
+## KẾT LUẬN: SỬA (0 blocker, 1 major)
+
+## Ghi chú so với vòng soát 1
+Hai MAJOR của vòng 1 đã được xử lý:
+- Lớp 1 nay đủ khoảng 1200–1500 từ (ước tính ~1459 từ, xem MINOR ở trên để double-check).
+- Cả hai khối `tab` đã có dòng tiêu đề "Ô 1 · 4/4 · móc kép" đúng định dạng, và đều có câu tường minh về tốc độ ("tốc độ chậm, không vội" / "tốc độ chậm tới vừa, không vội").
+Hai MINOR của vòng 1 cũng đã được xử lý: hàng "Tay" có chú thích ngoặc giải thích P chỉ là giá trị mặc định; Hack #2 đã đổi thành mẹo sờ tay tìm D4 độc lập với bài tập.
