@@ -1,0 +1,37 @@
+name: Kiểm lưới tab
+
+on:
+  push:
+    branches: ["**"]
+    paths:
+      - "chapters/**"
+      - "bin/sach_tab_sang_json.py"
+  pull_request:
+    paths:
+      - "chapters/**"
+      - "bin/sach_tab_sang_json.py"
+
+jobs:
+  kiem-tab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Chạy sach_tab_sang_json.py --kiem trên mọi chương
+        run: |
+          shopt -s nullglob
+          files=(chapters/*.md)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Chưa có file nào trong chapters/ — bỏ qua kiểm."
+            exit 0
+          fi
+          status=0
+          for f in "${files[@]}"; do
+            echo "== $f =="
+            python3 bin/sach_tab_sang_json.py "$f" --kiem || status=1
+          done
+          exit $status
