@@ -1,82 +1,129 @@
-# Audit Chương 1 — Tiếng đầu tiên | Người đọc mới
+# Báo cáo độc giả mới — Chương 1: Tiếng đầu tiên
 
-**Người đọc**: Vừa mua handpan D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào.  
-**Ngày audit**: 2026-08-19
+**Vai trò**: Vừa mua handpan D Kurd, không biết nhạc lý, chưa từng chơi nhạc cụ nào.
 
 ---
 
 ## 1. Chỗ tắc
 
-**Không có chỗ tắc nào.**
+### Tắc 1: "Tay" trong lưới luyện tập
+**Câu/đoạn** (dòng 79, 85):
+```
+Tay      | P  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
 
-Chương viết rất rõ ràng, mỗi khái niệm mới đều được giải thích ngay (không phải "để dành cho chương sau"):
-- "Ding" được mô tả vị trí cụ thể (cái lõm tròn ngay giữa)
-- "Ngân" được giải thích: "tiếng vẫn tự kéo dài thêm một lúc, nhỏ dần"
-- "Chủ âm" được so sánh: "giống như nốt 'nhà'"
-- Ký hiệu bài tập (● và ·) được giải thích: "● là lúc bạn gõ, · là lúc im lặng"
-- Những phần không cần hiểu ngay (sơ đồ mặt trống, "móc đơn", "bar/ts") chương tự nói rõ: "cứ để mắt lướt qua", "không cần hiểu nó là gì", "bạn bỏ qua cũng được"
+**Chỗ không hiểu**: 
+- "Tay" là hàng gì? Ghi "P" có nghĩa gì?
+- Chương nói "Hàng 'Tay' bên dưới cũng bỏ qua luôn — chuyện tay nào gõ để dành cho chương 2", nhưng tôi không biết "P" là viết tắt của cái gì (Phải? Tay phải? Cái gì khác?).
+- Nếu "bỏ qua được" thì tại sao lại in ra trong lưới? Nó gây nhầm lẫn.
 
-Người mới có thể đọc liên tục từ đầu đến cuối mà không bị vướng.
-
----
-
-## 2. Từ lạ
-
-Những từ xuất hiện mà không được giải thích chi tiết:
-
-1. **Quãng** (dòng 61) — nói "không cần nhớ tên hợp âm hay quãng gì hết" nhưng không giải thích quãng là gì. Tuy nhiên, chương cố tình không giải thích vì "bạn không cần biết hôm nay", nên không phải "chỗ tắc".
-
-2. **Hợp âm** (dòng 61) — cùng tình huống như "quãng" — không giải thích nhưng cố tình để dành.
-
-3. **Nhạc lý** (dòng 50, 73) — xuất hiện nhiều lần, nhưng chỉ được hiểu qua ngữ cảnh là "lý thuyết về nhạc", không có định nghĩa tường minh. Tuy nhiên chương nhấn "không cần biết" nên có thể tiếp tục.
-
-4. **Nốt nhà** (dòng 15) — so sánh "Ding giống như nốt nhà" nhưng không giải thích tại sao gọi là "nhà". Chương nói "quay lại sau" nên ý định dành phần này cho chương sau.
-
-5. **Ô nhạc** (dòng 111) — xuất hiện lần đầu ở bài tập 2 mà không giải thích. Nhưng chương nói bỏ qua từ đó.
+**Mức độ**: Không cản trở bài tập, vì tôi được cho phép bỏ qua. Nhưng không rõ ràng.
 
 ---
 
-## 3. Thử làm theo (Lớp 3 + bài tập)
+### Tắc 2: "móc đơn" — từ không được giới thiệu
+**Câu/đoạn** (dòng 137, 142):
+```
+Hàng "móc đơn" bên dưới chỉ là cây thước đo nhịp cho vui mắt, không cần hiểu nó là gì
+...
+móc đơn  | 1  .  2  .  3  .  4  .  5  .  6  .  7  .  8  .
+```
 
-**Phần Lớp 3 — Cheat sheet:**
-Rõ ràng. Tôi sẽ:
-- Tìm "cái lõm tròn ngay giữa mặt trống" → đó là Ding
-- Gõ nhẹ bằng "đầu ngón tay hoặc gốc ngón cái"
-- Chờ tiếng "tắt hẳn"
-- Gõ lại
+**Chỗ không hiểu**: 
+- "Móc đơn" không được giới thiệu ở đâu trước đó.
+- "Cây thước đo nhịp" — Tôi không rõ "nhịp" là gì chính xác (tôi hiểu nó liên quan tốc độ hay khoảng cách, nhưng không chắc).
+- Tôi được cho phép bỏ qua, nhưng điều này vẫn là một khoảng trống trong hiểu biết.
+
+**Mức độ**: Không cản trở bài tập (tôi chỉ nhìn hàng Ding), nhưng để lại câu hỏi.
+
+---
+
+## 2. Từ lạ (chưa được giải thích rõ)
+
+1. **"ngân"** (dòng 21, 59):
+   - Được giới thiệu: "Tiếng Ding không tắt ngay. Nó ngân — nghĩa là sau khi bạn gõ xong, tiếng vẫn tự kéo dài thêm một lúc"
+   - ✅ Được giải thích bằng ngữ cảnh. Tôi hiểu được.
+
+2. **"chủ âm"** (dòng 15):
+   - Định nghĩa: "Dân chơi lâu năm hay gọi Ding là 'chủ âm' của cây đàn — nghe hơi trừu tượng đúng không? Không sao, khái niệm này mình sẽ quay lại kỹ hơn ở một chương sau."
+   - ⚠️ Giới thiệu nhưng không giải thích đầy đủ. Chương tự biết nó trừu tượng.
+
+3. **"nhịp"** (dòng 48, 62, 72, 142):
+   - Xuất hiện: "không cần đếm nhịp", "gõ đều", "cây thước đo nhịp"
+   - ❌ Không được định nghĩa rõ ràng. Tôi hiểu nó là gì qua trực giác, nhưng không chắc.
+
+4. **"hợp âm"** (dòng 61):
+   - "Không cần nhớ tên hợp âm hay quãng gì hết"
+   - ❌ Không được giải thích. Tôi không biết nó là gì.
+   - ℹ️ Nhưng chương cố tình "để dành" nên không phải vấn đề lớn.
+
+5. **"quãng"** (dòng 61):
+   - ❌ Không được giải thích (cùng tình huống như "hợp âm").
+
+6. **"4/4"** (dòng 84, 90, 98, ..., 142):
+   - Xuất hiện trong tất cả lưới: `ts=4/4`
+   - ❌ Không được giải thích.
+   - ℹ️ Chương nói bỏ qua được ("không cần hiểu").
+
+7. **"P"** (hàng Tay, dòng 85):
+   - ❌ Viết tắt không được giải thích.
+
+8. **"ô nhạc"** (dòng 111):
+   - "Bốn tiếng Ding cách đều nhau trong một **ô nhạc**"
+   - ❌ Không được giải thích, lần đầu xuất hiện ở bài tập 2.
+
+---
+
+## 3. Thử làm theo (Lớp 3 + Bài tập)
+
+**Lớp 3 — Cheat sheet & Hack:**
+Bảng rõ ràng:
+- Vị trí: Ding = cái lõm tròn ngay giữa (dễ tìm) ✓
+- Cách gõ: Nhẹ nhàng, đầu ngón tay hoặc gốc ngón cái ✓
+- Việc quan trọng nhất: Chờ tiếng ngân tắt hẳn rồi gõ tiếp ✓
 
 **Bài tập 1 — Gõ và chờ (8 lần):**
-- Có 8 khối, mỗi khối hiển thị một lần gõ (● ở cột đầu) rồi im lặng (toàn · sau đó)
-- Tôi đọc được: "gõ xong, chờ tiếng tắt hẳn mới gõ ô tiếp theo"
-- Thực hiện: gõ Ding, nghe tan hết, gõ lại × 8 lần
-- ✅ Rõ ràng, có thể làm ngay
+Tôi sẽ:
+1. Gõ Ding (dấu ●)
+2. Im lặng nghe (dấu ·)
+3. Chờ tiếng tắt hẳn
+4. Lặp lại 7 lần nữa
+
+Rõ ràng. Tôi biết phải làm gì. ✓
 
 **Bài tập 2 — Gõ đều bốn lần:**
-- Hiểu ý: "Bốn tiếng Ding cách đều nhau"
-- Lưới cho thấy 4 dấu ● ở vị trí 1, 5, 9, 13 (cách đều 4 khoảng)
-- Chương nói "chưa cần chính xác tuyệt đối, chỉ cần cảm giác đều tay"
-- ✅ Có thể thực hiện: gõ 4 tiếng cách đều, không cần quá chính xác
+Tôi sẽ:
+1. Nhìn hàng "D · Ding"
+2. Gõ ở 4 vị trí có dấu ● (cột 1, 5, 9, 13)
+3. Bỏ qua hàng "móc đơn" (chương nói bỏ qua được) ✓
+4. Bỏ qua hàng "Tay" (chương nói bỏ qua được) ✓
+5. Cố gắng gõ đều, nhưng chương nói "chưa cần chính xác tuyệt đối"
+
+Tôi biết phải làm gì. ✓
 
 **Hack (dòng 73):**
-"Lúc căng thẳng... chỉ cần gõ một tiếng Ding, rồi ngồi im nghe"
-- ✅ Rõ ràng, có thể dùng ngay
+"Lúc căng thẳng, không cần biết gì về nhạc lý — chỉ cần gõ một tiếng Ding, rồi ngồi im nghe cho tới khi tiếng tắt hẳn."
 
-**Kết luận**: Có thể làm tất cả bài tập mà không cần tư vấn. Chương cho đủ chỉ dẫn.
+Rõ ràng, có thể dùng ngay. ✓
+
+**Kết luận**: Tôi có thể làm tất cả bài tập mà không cần tư vấn thêm.
 
 ---
 
-## 4. Bài kiểm tra 10 tuổi (Lớp 2 tóm tắt)
+## 4. Bài kiểm tra 10 tuổi (Lớp 2 — Tóm tắt 30 giây)
 
-Tôi đọc Lớp 2 (dòng 56-62) với tinh thần "một đứa 10 tuổi có hiểu được không?":
+Tôi đọc Lớp 2 (dòng 56-62) với tinh thần: "Một đứa 10 tuổi có hiểu được không?"
 
-**Ý chính:**
-- ✅ Ding = "cái lõm tròn ngay giữa" (dễ hình dung)
-- ✅ Gõ nhẹ rồi "im lặng nghe cho tới khi tiếng tắt hẳn" = **ngân** (có ẩn dụ chuông giúp hình dung)
-- ✅ "Đừng gõ tiếp khi tiếng cũ chưa ngân xong" (rõ ràng)
-- ✅ "Không cần nhớ tên hợp âm hay quãng" (ít nhất không cần hôm nay)
-- ✅ "Gõ đều — chưa cần đúng" (đơn giản)
+**Ý chính Lớp 2:**
+- ✅ Ding là "cái lõm tròn ngay giữa mặt trống" — dễ hình dung
+- ✅ Gõ nhẹ rồi "im lặng nghe cho tới khi tiếng tắt hẳn" — có ẩn dụ chuông giúp hình dung
+- ✅ "Đừng gõ tiếp khi tiếng cũ chưa ngân xong" — rõ ràng
+- ✅ "Không cần nhớ tên hợp âm hay quãng gì hết" — chỉ bảo không cần hôm nay thôi
+- ✅ "Gõ đều — chưa cần đúng, chỉ cần đều và kiên nhẫn" — đơn giản
 
-**Một đứa 10 tuổi có hiểu được không?** CÓ. Toàn bộ Lớp 2 là các gạch đầu dòng ngắn, dùng từ chung (không quá chuyên môn). Câu "cây đàn đang 'thở'" làm ý tưởng dễ tiếp cận.
+**Một đứa 10 tuổi có hiểu được không?** CÓ.
+- Toàn bộ Lớp 2 là các gạch đầu dòng ngắn, từ chung chung (không quá chuyên môn).
+- Ẩn dụ "cây đàn đang 'thở'" làm ý tưởng dễ tiếp cận.
 
 **Không có câu quá khó.**
 
@@ -86,14 +133,26 @@ Tôi đọc Lớp 2 (dòng 56-62) với tinh thần "một đứa 10 tuổi có 
 
 **Muốn cầm trống lên chơi?** CÓ.
 
-**Lí do:**
-- Lớp 1 viết như kể chuyện (giọt nước vào hồ, tiếng chuông gió), không phải "công thức nhạc lý"
-- Không đòi hỏi "phải hoàn hảo" — chương nói nhiều lần "không cần đúng", "không có sai, chỉ có chưa quen"
-- Hack rất hấp dẫn: "Lúc căng thẳng, chỉ cần gõ một tiếng Ding" — làm tôi muốn thử ngay
-- Giọng văn vui, thân thiện, không "lên lớp" gì
+**Lý do:**
+- Lớp 1 viết như kể chuyện (giọt nước vào hồ, tiếng chuông gió), không phải công thức nhạc lý.
+- Không đòi hỏi hoàn hảo — chương nói nhiều lần "không cần đúng", "không cần sợ", "không có sai, chỉ có chưa quen".
+- Hack rất hấp dẫn: "Lúc căng thẳng, chỉ cần gõ Ding" — làm tôi muốn thử ngay.
+- Giọng văn vui, thân thiện, không "lên lớp".
 
-**Khi nhìn bài tập?** Vẫn tự tin, không nản.
+**Cảm giác khi nhìn bài tập?** Vẫn tự tin, không nản.
 
-Ký hiệu (●, ·, lưới) được giải thích rõ ràng. Tôi không cảm thấy "thông minh hay không thông minh" — chương vẫn có dạy.
+Ký hiệu (●, ·) được giải thích rõ ràng. Tôi không cảm thấy ngợp hay sợ.
 
-**Cảm giác tổng thể:** Muốn chơi ngay, không sợ, không nản. Chương làm cho việc gõ Ding trở thành "một việc bình yên" chứ không phải "luyện tập khó khăn".
+**Cảm giác tổng thể**: Muốn chơi ngay, không sợ, không nản. Chương làm cho việc gõ Ding trở thành "một việc bình yên" chứ không phải "luyện tập khó khăn".
+
+---
+
+## Tóm tắt
+
+| Mục | Kết luận |
+|---|---|
+| **Chỗ tắc** | 2 chỗ: "Tay" (P = ?) và "móc đơn" (không được giới thiệu). Không cản trở bài tập. |
+| **Từ lạ** | 8 từ/ký hiệu không được giải thích rõ: "nhịp", "hợp âm", "quãng", "4/4", "P", "ô nhạc" (+ "chủ âm" giải thích chưa đầy đủ). |
+| **Thử làm theo** | Biết phải làm gì ở cả 2 bài tập. Không tắc. |
+| **Bài kiểm tra 10 tuổi** | Hiểu được 100%. Lớp 2 rõ ràng, dễ hiểu. |
+| **Cảm giác** | Muốn cầm trống lên chơi ngay. Không nản. |
