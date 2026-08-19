@@ -1,120 +1,161 @@
-# Báo cáo độc giả — Chương 1 (ch01_reader)
+# Báo cáo đọc Chương 01 — Người mới chơi handpan D Kurd
 
-**Độc giả**: Người vừa mua cây D Kurd đầu tiên, không biết nhạc lý, chưa chơi nhạc cụ nào.  
+**Độc giả**: Vừa mua cây handpan D Kurd đầu tiên, không biết nhạc lý, chưa từng chơi nhạc cụ nào  
 **Ngày**: 2026-08-19
 
 ---
 
-## 1. Chỗ tắc
+## 1. Chỗ tắc (câu/đoạn làm tôi ngần ngại)
 
-### "chủ âm" không được giải thích rõ
+### Tắc 1: Từ "chủ âm" (dòng 15)
+**Câu gốc**: "Dân chơi lâu năm hay gọi Ding là 'chủ âm' của cây đàn — nghe hơi trừu tượng đúng không? Không sao, khái niệm này mình sẽ quay lại kỹ hơn ở một chương sau."
 
-**Câu gốc** (dòng 15): 
-> "Dân chơi lâu năm hay gọi Ding là 'chủ âm' của cây đàn — nghe hơi trừu tượng đúng không? Không sao, khái niệm này mình sẽ quay lại kỹ hơn ở một chương sau."
-
-**Chỗ tắc**: Chương tự thừa nhận "chủ âm" là khái niệm trừu tượng nhưng không nói nó là gì. Tôi không hiểu "chủ âm" có nghĩa là cái gì — có liên quan tới nhạc lý không? Tôi không biết nhạc lý nên không thể đoán từ bối cảnh được.
-
-### "ngân" xuất hiện quá đột ngột
-
-**Câu gốc** (dòng 21):
-> "Tiếng Ding không tắt ngay. Nó ngân — nghĩa là sau khi bạn gõ xong, tiếng vẫn tự kéo dài thêm một lúc..."
-
-**Chỗ tắc**: Từ "ngân" chỉ được giới thiệu tại đây lần đầu tiên với định nghĩa theo sau. Nhưng từ sau đó, chương dùng cụm "tiếng ngân" hoặc "ngân xong" như thể nó đã là từ quen thuộc (dòng 48, 59, 60). Tôi cảm thấy bất ngờ khi lần đầu gặp từ này — mặc dù định nghĩa rõ ràng, nhưng nó vẫn là một từ lạ bị ném vào giữa câu.
-
-### Lưới bài tập 2 không rõ cách dùng
-
-**Câu gốc** (dòng 141–142):
-> "Bốn tiếng Ding cách đều nhau trong một ô nhạc, chậm rãi — chưa cần chính xác tuyệt đối, chỉ cần cảm giác đều tay. Hàng 'móc đơn' bên dưới chỉ là cây thước đo nhịp cho vui mắt, không cần hiểu nó là gì..."
-
-**Chỗ tắc**: Tôi không hiểu lưới dùng để làm gì. Chương nói "chưa cần chính xác tuyệt đối, chỉ cần cảm giác đều tay" — nhưng nếu tôi chỉ cần "cảm giác" thì tại sao cần lưới chi tiết với 16 cột? Tôi nên:
-- Gõ theo tốc độ của hàng "móc đơn"?
-- Gõ theo cảm giác, bỏ qua lưới?
-- Dùng lưới làm hình dung nhưng không tuân theo chính xác?
-
-Chương không nói rõ.
+**Cụ thể tắc chỗ nào**: Chương tự thừa nhận tôi sẽ không hiểu, rồi bảo tôi chưa cần lo. Nhưng câu này khiến tôi tự hỏi: "Vậy tôi sắp dùng cái gì mà cần hiểu 'chủ âm' không?" Nếu không cần hiểu bây giờ, tại sao lại nhắc đến?
 
 ---
 
-## 2. Từ lạ (chưa được giải thích)
+### Tắc 2: Sơ đồ D Kurd với các ký hiệu (dòng 27–40)
+**Đoạn gốc**: 
+```
+                     ⑨ C5
+        ⑧ A4                    G4 ⑦
+   ⑥ F4                              E4 ⑤
+                     ◉
+                  Ding D3
+   ④ D4                              C4 ③
+        ② Bb3                   A3 ①
+               ▲ NGƯỜI CHƠI ▲
+```
 
-| Từ | Lần đầu | Được giải thích? | Vấn đề |
+**Cụ thể tắc chỗ nào**: 
+- **"D Kurd"** — Chương nói đây là "sơ đồ chuẩn của cây D Kurd" nhưng chưa nói D Kurd là gì. Tôi không biết Kurd là tên gì, loại gì.
+- **D3, C5, G4 v.v.** — Các chữ cái và con số này có ý nghĩa gì? Tôi đoán là tên các nốt, nhưng tôi không hiểu "D3" vs "D4" khác gì. Chương bảo "bạn không cần đọc chữ trong mấy ô còn lại", thế tại sao vẫn viết chúng ra?
+- **Các số ①②③...⑨** — Có phải là thứ tự các nốt? Nhưng làm sao tôi biết?
+
+Chương nói "coi như chưa nhìn thấy chúng cũng được", nhưng chúng vẫn ở đó, khiến tôi tò mò và lo lắng. Có phải tôi sắp cần chúng không?
+
+---
+
+### Tắc 3: Từ "ngân" dùng liên tục sau khi giới thiệu (dòng 21–23)
+**Câu gốc** (dòng 21): "Tiếng Ding không tắt ngay. Nó ngân — nghĩa là sau khi bạn gõ xong, tiếng vẫn tự kéo dài thêm một lúc, nhỏ dần, nhỏ dần, cho tới khi tan hẳn vào không khí"
+
+**Cụ thể tắc chỗ nào**: Định nghĩa hình dung hay (như sóng nước trên hồ), nhưng tôi chưa bao giờ nghe một âm thanh khác kéo dài như vậy. Tôi không biết nó ngân lâu bao lâu. Lúc đó chương nói "lắng nghe" (dòng 21), nhưng tôi phải nghe bao lâu? 5 giây? 10 giây? Cho tới khi không nghe thấy gì nữa?
+
+Ẩn dụ "để nó thở" (dòng 23) cũng hay, nhưng "thở xong" là lúc nào cụ thể?
+
+---
+
+### Tắc 4: Cách dùng lưới bài tập không rõ (dòng 75–88)
+**Câu gốc** (dòng 77–78): "Gõ xong, chờ tiếng tắt hẳn mới gõ ô tiếp theo — không cần đếm nhịp, không cần đều, cứ chờ tai bạn thấy 'xong' thì gõ tiếp."
+
+**Cụ thể tắc chỗ nào**: Chương bảo tôi theo tai, bỏ qua lưới. Nhưng tôi nhìn thấy lưị với 16 cột, dấu ● và ·. Có phải tôi sử dụng lưị hay không? Nếu chỉ theo tai thì tôi nên bỏ qua lưị hoàn toàn hay dùng nó làm "hình dung"?
+
+Cụm "không cần đếm phách" ở dòng 77 khiến tôi muốn hỏi: "Phách là gì?" Nhưng chương không giải thích, bảo tôi không cần biết. Vậy tôi bỏ qua luôn.
+
+---
+
+### Tắc 5: "Gõ đều" có nghĩa là gì (dòng 62, bảng Lớp 3)
+**Câu gốc** (dòng 62 Lớp 2): "Gõ đều — chưa cần đúng, chỉ cần đều và kiên nhẫn."
+
+**Cụ thể tắc chỗ nào**: "Đều" có phải là "gõ với khoảng cách thời gian như nhau" không? Nhưng nếu mỗi lần gõ Ding ngân một lúc, khoảng cách "đều" đó là tính từ lúc tôi gõ, hay từ lúc tiếng tắt hẳn? Bài tập 2 nói "bốn tiếng Ding cách đều nhau" — cách đều là gì? Mỗi 1 giây một cái? Mỗi 2 giây?
+
+Chương nói "chưa cần đúng" — vậy "đúng" là gì? Là gõ theo một tốc độ cụ thể không?
+
+---
+
+## 2. Từ lạ (xuất hiện mà chưa được giải thích)
+
+| Từ/Ký hiệu | Lần đầu xuất hiện | Giải thích? | Vấn đề |
 |---|---|---|---|
-| **chủ âm** | Dòng 15 | Không (để dành cho sau) | Từ chung chung mà không hiểu ý nghĩa |
-| **lõm** | Dòng 15 ("cái lõm tròn") | Gián tiếp (ngữ cảnh: "sờ tay vào là nhận ra ngay") | Người mới có thể không biết từ này chính xác |
-| **ngân** | Dòng 21 ("Nó ngân —") | Có định nghĩa ngay sau | Xuất hiện quá đột ngột, mặc dù định nghĩa rõ |
-| **nốt** | Dòng 11 ("một nốt") | Không (dùng như từ quen thuộc) | Tôi đoán nó là "âm" hoặc "tiếng nhạc" từ bối cảnh |
-| **cây đàn** | Dòng 9 | Không (dùng như từ đồng nghĩa với "handpan") | Hiểu từ bối cảnh nhưng chưa được định nghĩa chính thức |
-| **mặt trống** | Dòng 9 | Không (dùng như từ quen thuộc) | Hiểu từ bối cảnh |
-| **móc đơn** | Dòng 141 | Không (chương nói "không cần hiểu") | Từ lạ hoàn toàn, dù chương bảo bỏ qua |
-| **nhịp** | Dòng 48, 62, 141 | Không (dùng như từ quen thuộc) | Tôi không chắc "nhịp" là gì — "lúc gõ"? "tốc độ gõ"? |
+| **Kurd** | Dòng 25 (D Kurd) | Không | Tôi không biết Kurd là gì — tên loại thang âm? Tên ca sĩ? Tên địa danh? |
+| **nốt** | Dòng 11 | Không (dùng như từ quen thuộc) | Tôi đoán nó là "tiếng nhạc" từ bối cảnh, nhưng chưa định nghĩa chính thức |
+| **D3, C5, G4, Bb3** v.v. | Dòng 27–37 | Không | Ký hiệu gì? Tên nốt? Tôi không hiểu chữ cái và con số có ý nghĩa gì |
+| **chủ âm** | Dòng 15 | Không rõ (để dành cho sau) | Từ trừu tượng, chương tự thừa nhận tôi sẽ không hiểu |
+| **ngân** | Dòng 21 | Có (nhưng qua ẩn dụ) | Định nghĩa hình dung, nhưng tôi chưa nghe thực tế nên chưa tưởng tượng được rõ |
+| **mặt trống** | Dòng 25–26 (sơ đồ) | Không (dùng như từ quen thuộc) | Tôi hiểu đó là phần trên của cây trống, nhưng chưa được định nghĩa chính thức |
+| **lõm** | Dòng 15 | Gián tiếp ("sờ tay vào là nhận ra") | Từ này khó cho người mới, tôi không chắc "lõm" là khoảng trống hay gì |
+| **phách** | Dòng 77 | Không ("không cần đếm phách") | Tôi không biết phách là gì, chương bảo bỏ qua nhưng từ này xuất hiện |
+| **móc đơn** | Dòng 141 | Không ("cây thước đo nhịp cho vui mắt, không cần hiểu") | Từ hoàn toàn lạ, chương bảo không cần hiểu nhưng nó vẫn ở lưội bài tập |
+| **nhịp** | Dòng 48, 62, 141 | Không | "Nhịp" là gì? Là tốc độ gõ? Là khoảng cách thời gian? |
+| **4/4** | Dòng 83 (ô 1 · 4/4) | Không | Ký hiệu gì? Tôi đoán là "bốn nhịp" nhưng không chắc |
+| **tự do** | Dòng 83 ("4/4 · tự do") | Không | "(không đếm phách)" nhưng tôi vẫn không biết "tự do" có nghĩa là gì |
 
 ---
 
 ## 3. Thử làm theo (Lớp 3 + Bài tập)
 
-### Lớp 3 — Cheat sheet:
+### Cheat sheet (Lớp 3)
 
-Tôi sẽ làm gì:
-- ✓ Tìm cái lõm tròn ở giữa mặt trống (Ding) — dễ, "sờ tay là nhận ra"
-- ✓ Gõ nhẹ nhàng bằng đầu ngón tay hoặc gốc ngón cái — rõ ràng
-- ✓ Im lặng lắng nghe cho tới tiếng tắt hẳn — hiểu
-- ✓ Hack: gõ Ding lúc căng thẳng để yên bình — dễ nhớ
+Tôi hiểu rõ:
+- **Vị trí Ding**: "Cái lõm tròn ngay giữa mặt trống" → tôi sẽ sờ tay để tìm điểm lõm ở giữa
+- **Cách gõ**: "Nhẹ nhàng, đầu ngón tay hoặc gốc ngón cái" → tôi sẽ thử cả hai cách
+- **Việc quan trọng nhất**: "Chờ tiếng ngân tắt hẳn rồi mới gõ tiếp" → tôi sẽ nghe dõi
+- **Hack**: "Gõ Ding lúc căng thẳng để yên bình" → tôi muốn thử ngay
 
-**Không có vấn đề ở cheat sheet.**
+**Không có chỗ mù ở đây.**
 
-### Bài tập 1 — Gõ và chờ:
+---
 
-Tôi sẽ làm gì:
-1. Cầm trống lên (chương nói "cầm trong lòng hoặc trên giá" nhưng không chi tiết cách cầm)
-2. Nhìn vào lưới: 8 ô, mỗi ô có một dấu ● ở vị trí đầu tiên
-3. Gõ Ding một cái (lúc nhìn ●)
-4. Im lặng (lúc nhìn ·)
-5. Lặp lại 8 ô
+### Bài tập 1 — Gõ và chờ (8 lần)
 
-**Vấn đề**: Chương nói "gõ xong, chờ tiếng tắt hẳn mới gõ ô tiếp theo — không cần đếm nhịp, không cần đều, cứ chờ tai bạn thấy 'xong' thì gõ tiếp" (dòng 77). Nhưng nếu tôi chờ tiếng tắt hẳn, mỗi ô có thể kéo dài rất lâu (nó phụ thuộc vào cây trống, không phải do tôi). Tôi nên gõ ô 2 khi nào? Tôi chỉ nên gõ khi tiếng ô 1 tắt hẳn? Nếu vậy, lưới 16 cột là để làm gì?
+**Tôi sẽ làm gì**:
+1. Tìm Ding (cái lõm ở giữa)
+2. Gõ nhẹ một cái
+3. Bỏ tay ra, im lặng lắng nghe
+4. Khi nào tiếng tắt hẳn (không nghe thấy gì nữa?), gõ lần thứ 2
+5. Lặp lại 8 lần như vậy
 
-**Kết luận bài tập 1**: Tôi sẽ bỏ qua lưới, chỉ gõ Ding và chờ 8 lần như lời chương nói, chứ không tuân theo cấu trúc lưới.
+**Chỗ mù**:
+- "Tiếng tắt hẳn" là khi nào cụ thể? Tôi phải nghe bao lâu? Cho tới khi âm thanh nhỏ tới mức tôi nghe không thấy?
+- Cái lưới với dấu ● và · — tôi nên dùng nó không? Hay chỉ gõ theo tai?
+- Chương nói "không cần đếm phách", tôi hiểu là "không cần tuân theo nhịp", nhưng tôi vẫn chưa biết phách là gì
 
-### Bài tập 2 — Gõ đều bốn lần:
+**Kết luận**: Tôi sẽ làm bài tập này, nhưng tôi sẽ bỏ qua lưị vì chương nói "cứ chờ tai bạn thấy 'xong' thì gõ tiếp". Tôi sẽ gõ 8 lần, mỗi lần chờ cho tới khi tôi không nghe thấy tiếng nữa.
 
-Tôi sẽ làm gì:
-1. Nhìn lưới: hàng "D · Ding" có `● · · · ● · · · ● · · · ● · · ·`
-2. Gõ Ding vào vị trí dấu ● (4 lần, cách đều)
-3. Im lặng giữa các lần gõ
+---
 
-**Vấn đề**:
-- Chương nói "chậm rãi" nhưng không nói cụ thể bao lâu là chậm rãi. Bao nhiêu giây giữa mỗi cái gõ?
-- Hàng "móc đơn" hiển thị `1 . 2 . 3 . 4 . 5 . 6 . 7 . 8` — tôi có nên theo tốc độ của nó không? Nhưng chương nói "không cần hiểu nó là gì" nên tôi bỏ qua.
-- Chương nói "không cần chính xác tuyệt đối, chỉ cần cảm giác đều tay" — vậy lưới là để hình dung hay để tuân theo?
+### Bài tập 2 — Gõ đều bốn lần
 
-**Chỗ mù**: Tôi không biết phải gõ bao lâu một lần để được coi là "chậm rãi". Nếu tôi gõ cứ 1 giây một lần, hay cứ 2 giây, hay tuỳ ý?
+**Tôi sẽ làm gì**:
+1. Gõ Ding lần 1
+2. Chờ một khoảng (nhưng bao lâu?)
+3. Gõ Ding lần 2
+4. Chờ khoảng cách như nhau
+5. Gõ Ding lần 3
+6. Chờ khoảng cách như nhau
+7. Gõ Ding lần 4
 
-**Kết luận bài tập 2**: Tôi sẽ gõ 4 tiếng cách đều nhau theo "cảm giác", bỏ qua lưới. Nhưng tôi không chắc "chậm rãi" có nghĩa là chậm đến cỡ nào.
+**Chỗ mù**:
+- "Chậm rãi" có nghĩa là gõ mỗi cách bao lâu? 1 giây? 2 giây?
+- Hàng "móc đơn" với số 1, 2, 3, 4, 5, 6, 7, 8 — tôi có nên theo đó không? Chương nói "không cần hiểu nó là gì" nên tôi bỏ qua?
+- Lưới bài tập có dấu ● ở vị trí 1, 5, 9, 13 — tôi có cần gõ đúng ở những cột đó không, hay chỉ là "hình dung"?
+
+**Kết luận**: Tôi sẽ gõ 4 tiếng Ding cách đều nhau, nhưng tôi không biết "đều" là bao lâu. Tôi sẽ phải tự đoán "chậm rãi" có nghĩa là gõ mỗi khoảng 1–2 giây hoặc hơn.
 
 ---
 
 ## 4. Bài kiểm tra 10 tuổi (Lớp 2)
 
-**Nội dung Lớp 2 (dòng 56–62):**
-- Ding — cái lõm tròn ngay giữa mặt trống, nốt trầm nhất, dễ tìm nhất
+**Nội dung Lớp 2 (dòng 56–62)**:
+- Ding là cái lõm tròn ngay giữa mặt trống
 - Gõ nhẹ rồi im lặng nghe cho tới tiếng tắt hẳn (gọi là "ngân")
-- Đừng gõ tiếp khi tiếng cũ chưa ngân xong — để nó "thở" trọn vẹn
-- Không cần nhớ lý thuyết — chỉ cần nhớ tên "Ding"
-- Gõ đều — chưa cần đúng, chỉ cần đều và kiên nhẫn
+- Đừng gõ tiếp khi tiếng cũ chưa ngân xong
+- Không cần nhớ lý thuyết, chỉ cần nhớ tên "Ding"
+- Gõ đều, chưa cần đúng
 
-**Một đứa trẻ 10 tuổi hiểu được không?**
+**Một đứa trẻ 10 tuổi hiểu được ý chính không?**
 
-✓ Hiểu phần lớn:
-- Ding ở giữa trống, dễ tìm
-- Gõ nhẹ, rồi nghe tiếng kéo dài
-- Đừng gõ liền, để tiếng cũ kết thúc
+Hiểu được phần lớn:
+- ✓ Ding ở giữa trống, dễ tìm (sờ tay)
+- ✓ Gõ nhẹ, rồi nghe
+- ✓ Đừng gõ liền, để tiếng kết thúc
 
-? Vấn đề nhỏ:
-- Từ **"ngân"** — chương định nghĩa nó qua hành động (tiếng kéo dài) nên có thể hiểu, nhưng nó là từ lạ
-- Từ **"lõm"** — một bé 10 tuổi có biết "cái lõm tròn" là gì không? Chương dùng ẩn dụ "sờ tay vào là nhận ra" giúp hình dung, nhưng từ "lõm" vẫn hơi trừu tượng
-- Cụm **"để nó thở trọn vẹn"** — ẩn dụ hay, nhưng có bé nào quen với cách nói này không?
+Nhưng khó hiểu:
+- **"Ngân"** — Lớp 2 định nghĩa nó qua hành động (tiếng kéo dài), nhưng một bé 10 tuổi lần đầu gặp từ này sẽ tự hỏi "ngân là gì vậy?" Nó không phải từ quen thuộc như "gõ" hay "nghe".
+- **"Tắt hẳn"** — Lớp 2 không nói "tắt hẳn" là khi nào. Bé có biết phải chờ bao lâu không?
+- **"Để nó thở trọn vẹn"** — Ẩn dụ hay, nhưng khó cho trẻ chưa từng nghe cách nói này.
 
-**Kết luận**: Một bé 10 tuổi có thể hiểu ý chính, nhưng cần giải thích thêm về từ "ngân" và "lõm". Không phải "quá khó", nhưng cũng không hoàn toàn rõ ràng cho một đứa trẻ mới.
+**Kết luận**: Một bé 10 tuổi có thể hiểu ý chính (gõ, nghe, chờ), nhưng sẽ tắc ở từ "ngân" và khái niệm "tắt hẳn" (bao lâu?). Lớp 2 cần giải thích thêm.
 
 ---
 
@@ -122,21 +163,21 @@ Tôi sẽ làm gì:
 
 **Sau khi đọc xong, tôi muốn cầm trống lên chơi?**
 
-✅ **CÓ, rất muốn.**
+**CÓ, rất muốn.** Nhưng có hơi ngại.
 
-**Tại sao không nản:**
+### Tại sao muốn:
+1. **Giọng văn tuyệt vời** — Lớp 1 kể chuyện như bạn thân: giọt nước rơi, tiếng chuông gió, tiếng chuông chùa. Không giáo điều, vui nhộn.
+2. **Không áp lực** — Lặp lại nhiều lần "chưa cần đúng", "không có sai". Tôi cảm thấy không sợ hỏng hành.
+3. **Hack thực tế** — "Gõ Ding khi căng thẳng để yên bình" — tôi muốn thử ngay để xem có hoạt động không.
+4. **Lợi ích rõ ràng** — Handpan "để thư giãn, không phải để thi". Tôi không cần hoàn hảo.
 
-1. **Giọng văn lôi cuốn** — Lớp 1 kể chuyện (giọt nước rơi xuống hồ, tiếng chuông gió, chuông chùa) thay vì dạy công thức. Tôi cảm thấy đang nghe bạn thân nói chuyện, không phải nghe giảng viên.
+### Tại sao hơi ngại:
+1. **Sơ đồ D Kurd** — Nó có nhiều chữ cái và số tôi không hiểu (D3, C5 v.v.). Tôi lo là tôi sắp cần chúng.
+2. **Từ lạ chưa giải thích** — Kurd, chủ âm, phách, nhịp — chúng vẫn ở đó như những dấu hỏi.
+3. **Lưị bài tập bí ẩn** — Chương nói "đừng dùng lưị, chỉ theo tai", nhưng lưị vẫn ở đó. Tôi không biết nó dùng để làm gì.
+4. **"Tắt hẳn" không rõ** — Tôi sẽ chờ lâu bao lâu? Nếu tôi chờ quá lâu, tôi sẽ nản.
 
-2. **Không áp lực** — Chương lặp lại nhiều lần "chưa cần đúng", "không có sai, chỉ có chưa quen" (dòng 48, 52). Điều này giúp tôi cảm thấy an tâm, không sợ hỏng hành.
-
-3. **Hack thực tế** — "Gõ Ding lúc căng thẳng để yên bình" (dòng 73) — tôi muốn thử ngay để xem có hoạt động không.
-
-4. **Bỏ qua áp lực không cần thiết** — "Bạn không cần một căn phòng cách âm, không cần đợi tối muộn cả nhà đi ngủ mới dám gõ. Ding không ồn" (dòng 52) — điều này bỏ qua những lo lắng vô căn cứ của tôi.
-
-5. **Lợi ích rõ ràng** — Chương nói handpan "sinh ra để bạn được thư giãn, không phải để thi" (dòng 52). Tôi không cần thành thạo, chỉ cần ngồi yên và gõ.
-
-**Không có thứ gì khiến tôi nản cả.**
+**Tóm lại**: Tôi muốn cầm lên chơi ngay, nhưng tôi sẽ hơi lo lắng khi chơi vì chưa hiểu hết những từ trong chương.
 
 ---
 
@@ -144,8 +185,8 @@ Tôi sẽ làm gì:
 
 | Mục | Kết quả |
 |---|---|
-| **Chỗ tắc** | "chủ âm" không giải thích; "ngân" xuất hiện đột ngột; lưị bài tập 2 dùng để làm gì không rõ |
-| **Từ lạ** | "chủ âm", "lõm", "ngân", "nốt", "cây đàn", "móc đơn", "nhịp" — nhiều từ chưa được giải thích hoặc chỉ được giới thiệu qua ngữ cảnh |
-| **Thử làm theo** | Bài tập 1 rõ (bỏ lưới); bài tập 2 mập mờ (không biết "chậm rãi" là bao lâu) |
-| **Lớp 2 (10 tuổi)** | Hiểu ý chính, nhưng "ngân" và "lõm" cần giải thích thêm để 100% rõ |
-| **Cảm giác** | **Muốn cầm trống lên thử ngay** — khích lệ, không nản |
+| **Chỗ tắc** | 5 chỗ: "chủ âm", sơ đồ D Kurd, "ngân" (nghe bao lâu?), lưị bài tập dùng để làm gì, "gõ đều" có nghĩa là gì |
+| **Từ lạ** | Kurd, nốt, D3/C5, chủ âm, ngân (mập mờ), mặt trống, lõm, phách, móc đơn, nhịp, 4/4, tự do |
+| **Thử làm theo** | Bài tập 1: rõ (gõ 8 lần, chờ tiếng tắt, bỏ lưị). Bài tập 2: tắc (không biết "chậm rãi" bao lâu) |
+| **Lớp 2 (10 tuổi)** | Hiểu ý chính, nhưng từ "ngân" và khái niệm "tắt hẳn" (bao lâu?) cần giải thích thêm |
+| **Cảm giác** | **Muốn chơi, nhưng hơi lo** — Khích lệ + ngại (chưa hiểu hết từ, chưa hiểu lưị dùng để làm gì) |
