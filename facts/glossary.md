@@ -12,6 +12,7 @@
 | D thứ tự nhiên | D natural minor / D Aeolian | Bộ 7 tên nốt (D-E-F-G-A-Bb-C) mà cả 10 nốt trên trống đều thuộc về — gõ nốt nào trong đó cũng không "sai". |
 | Diatonic | Diatonic | Tính chất "chỉ dùng đúng 7 nốt của một thang âm, không lạc ra ngoài" — lý do trên trống không có nốt sai. |
 | Quãng | Interval | Khoảng cách giữa hai nốt, đo bằng số nửa cung — quãng càng nhỏ nghe càng gần nhau, càng lớn nghe càng cách biệt. |
+| Quãng tám | Octave | Số ghi sau tên nốt (A3, A4...) để phân biệt các nốt cùng tên nhưng cao độ khác nhau — số càng lớn thì nốt càng cao. |
 | Nửa cung | Semitone | Đơn vị đo khoảng cách nốt nhỏ nhất trên trống — hai nốt cách 1 nửa cung nghe cọ sát, hơi căng. |
 | Cung | Whole tone | Bằng 2 nửa cung — khoảng cách phổ biến nhất giữa các nốt liền kề trên D Kurd. |
 | Hợp âm | Chord | Ba nốt trở lên gõ cùng lúc (hoặc rất sát nhau) tạo thành một khối âm nghe "đầy" hơn một nốt lẻ. |
