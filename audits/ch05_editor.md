@@ -4,16 +4,23 @@
 (không có)
 
 ## MAJOR
-- **Mục tiêu học hứa "kết hợp Ding, tone field, đổi tay, ghost note và tắt tiếng" nhưng tắt tiếng (kỹ thuật ✕) không hề xuất hiện trong bất kỳ bài tập nào.** Rà cả 3 khối ```tab``` (Bài tập 1, 2, 3) chỉ dùng `●`, `○`, `▬` — không có ký hiệu `✕` nào. Tệ hơn, đoạn văn Lớp 1 mô tả Pattern 3 còn nói ngược lại: "lần này *không* tắt tiếng ngay, mà để nó giữ nguyên, ngân dài ra" — tức là chủ động tránh dùng kỹ thuật này ở đúng chỗ lẽ ra nó có thể xuất hiện tự nhiên nhất. Người đọc xong chương không hề thực hành tắt tiếng dù chương hứa sẽ kết hợp nó.
-  → **Sửa cụ thể**: Thêm một nhịp tắt tiếng chủ động vào Bài tập 3 — sau khi D4 vang ở cột 5, thêm `✕` ở cột 6 hoặc 7 trên hàng D4 để chủ động tắt tiếng D4 trước khi Ding quay lại giữ ở cột 9. Việc này còn khớp tự nhiên với ẩn dụ đã có sẵn trong Lớp 1 ("đi ra khỏi nhà một chút... rồi quay lại nhà") — thêm một câu kiểu "khép cửa lại trước khi về nhà" ngay tại D4 đó. Đồng thời sửa câu văn Lớp 1 đang phủ định tắt tiếng, và cập nhật ô "Cách chơi ngắn gọn" của Pattern 3 trong bảng cheat sheet Lớp 3 cho khớp.
+
+- **Nợ khái niệm ở phần Móc nối — tiết lộ trước đáp án của chương 6, dùng thuật ngữ tự chế "họ âm".**
+  Đoạn cuối "Móc nối" viết: *"Chương 6 sẽ giải thích vì sao không nốt nào trong ba pattern hôm nay là 'sai'; bí mật nằm ở chỗ cả 10 nốt trên trống đều thuộc về cùng một họ âm, điều bạn đã thấy hiện tượng nhưng chưa biết lý do."*
+  Hai vấn đề cộng dồn:
+  1. Spec ch05 chỉ cho phép **"Gieo mầm chương 6"** (gợi mở, không giải thích cơ chế). Câu này lại nói thẳng cơ chế — "cùng một họ âm" — tức là giải luôn đáp án mà chương 6 (thang âm D thứ tự nhiên / diatonic) có nhiệm vụ dạy. Đối chiếu `specs/ch06.md` chưa đọc trực tiếp trong lượt soát này nhưng theo `facts/glossary.md` dòng 12, khái niệm "cả 10 nốt trên trống đều thuộc về" một thang âm chính là định nghĩa của **"D thứ tự nhiên"** — thuật ngữ chính thức bị liệt vào "Cấm đụng" của ch05.
+  2. "Họ âm" không phải từ có trong `facts/glossary.md`. Theo CLAUDE.md mục 0: *"Không tự chế thuật ngữ mới. Thiếu từ → thêm vào glossary trước, dùng sau."* Đây là thuật ngữ ăn theo ý nghĩa của "D thứ tự nhiên"/"diatonic" nhưng viết trại đi để né luật — vẫn tính là nợ khái niệm vì người đọc tiếp nhận đúng nội dung lý thuyết trước khi được dạy.
+  → **Sửa cụ thể**: bỏ vế giải thích cơ chế, chỉ giữ câu hỏi treo. Ví dụ thay bằng: *"Chương 6 sẽ giải thích vì sao không nốt nào trong ba pattern hôm nay là 'sai' — hôm nay bạn chỉ cần biết hiện tượng này luôn đúng, chưa cần biết lý do."* (Đúng những gì đoạn cuối Lớp 1, dòng 40, đã làm tốt — nên đồng bộ Móc nối theo đúng mức độ giữ bí mật đó, đừng giải thích thêm ở Móc nối.)
 
 ## MINOR
-- Lớp 1 đếm tay được khoảng 1470–1480 từ, sát trần 1500 từ theo CLAUDE.md. Nên chạy đếm từ tự động chính xác và cắt bớt 1–2 câu (ví dụ đoạn diễn giải "học đi trước khi học chạy" ở đoạn 3 hơi lặp ý với đoạn mở bài) để có biên độ an toàn, tránh phải sửa lại nếu build kiểm tra tự động chặn.
-- Bài tập 1 và Bài tập 3 thiếu dòng tiêu đề "Ô N · <nhịp> · <tên phách>" trước khối tab (chỉ Bài tập 2 có, vì có 2 ô). Theo `facts/tab-notation.md` mục 4, mỗi ô nên có dòng tiêu đề này. → Thêm "Ô 1 · 4/4 · đen" (hoặc tên phách phù hợp) ngay trước mỗi khối tab đơn-ô ở Bài tập 1 và Bài tập 3, cho nhất quán định dạng.
-- Không thấy tốc độ gợi ý bằng chữ (chậm — vừa — nhanh) gắn ngay cạnh các khối tab như `facts/tab-notation.md` mục 4 yêu cầu ("Ghi tốc độ gợi ý bằng chữ"). Prose có nhắc "gõ chậm rãi" nhưng nằm rải trong Lớp 1, không gắn trực tiếp với bài tập ở Lớp 3. → Thêm một dòng tốc độ gợi ý (vd "Tốc độ: chậm") ngay trước hoặc sau mỗi khối tab ở Lớp 3.
-- Hàng `Tay` của Bài tập 1 và của các tiếng Ding trong Bài tập 2/3 đều gán `P` (tay phải) xuyên suốt, không bao giờ đổi bên khi gõ Ding. Không sai kỹ thuật (Ding ở giữa, tay nào gõ cũng được) nhưng hơi thiếu tính thực tế khi gõ lặp nhiều lần liên tục cùng một tay mỏi cổ tay. Có thể cân nhắc luân phiên P/T cho các tiếng Ding để bài tập tự nhiên hơn — không bắt buộc sửa, chỉ là gợi ý.
+
+- Đoạn Lớp 1 dùng ẩn dụ "mẹ ru con / à ơi" xuyên suốt cả ba pattern (dòng 5, 11, 13, 34) — hợp lý làm mạch xuyên suốt, nhưng tới đoạn Pattern 3 lặp lại ẩn dụ này thêm một tầng ẩn dụ khác ("đi ra khỏi nhà... khép cửa... về nhà") chồng lên ẩn dụ ru con, hơi rối tầng hình ảnh. Gợi ý: bỏ bớt một trong hai lớp ẩn dụ ở đoạn Pattern 3, giữ ẩn dụ "về nhà" (khớp với "chủ âm = nhà" đã học từ chương 3) là đủ, không cần nhắc "à ơi" nữa ở đoạn này.
+- Nhãn phách `4/4 · đen` lặp lại giống nhau ở cả 3 bài tập dù cấu trúc gõ khác nhau (bài 1: đều đặn từng ô; bài 3: có khoảng nghỉ dài rồi giữ). Không sai nhưng hơi lười — nên xem lại có nên đổi tên phách cho từng bài để người đọc dễ hình dung mật độ gõ khác nhau hay không (MINOR, không bắt buộc sửa).
 
 ## Chuyển fact-checker
-(không có mục nào cần chuyển — vị trí nốt A3/D4/E4 trên sơ đồ, quy tắc lẻ-phải/chẵn-trái, và cách gán tay P/T trong 3 bài tập đều khớp trực tiếp với `facts/dkurd.md` và `facts/tab-notation.md`, không có điểm nào mơ hồ về nhạc lý cần fact-checker phân xử.)
+
+- Hàng `Tay` ở Bài tập 2: Ding luôn gán `P` (tay phải) ở mọi lần gõ (cột 1, 5, 9, 13), trong khi 4 nốt giai điệu luân phiên `P–T–P–T`. Cần xác nhận quy ước "Ding luôn đánh bằng một tay cố định trong khi tay kia chơi giai điệu" có đúng kỹ thuật/thực tế chơi handpan hay không, hay Ding cũng nên đổi tay theo nhịp thở tự nhiên như lời văn ở đoạn Pattern 1 gợi ý ("có nhịp thở riêng").
+- Nhãn `4/4 · đen` (tên phách "đen"/quarter note) cho lưới 16 cột — đối chiếu `facts/tab-notation.md` mục 4 xem tên phách này có đúng quy ước đặt tên (ví dụ ví dụ mẫu trong tab-notation.md dùng "móc đơn" cho 6/8/12 cột) hay cần đổi tên phách khác cho nhất quán.
+- Ánh xạ số ô ①④⑤ ↔ A3/D4/E4 trong đoạn mô tả vị trí (dòng 32) và trong bảng Lớp 3 khớp với `facts/dkurd.md` mục 1 — đã đối chiếu bằng mắt thấy khớp, nhưng đề nghị fact-checker xác nhận lại chính thức vì đây là nội dung định vị không gian quan trọng cho người mới.
 
 ## KẾT LUẬN: SỬA (0 blocker, 1 major)
