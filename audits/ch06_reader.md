@@ -1,166 +1,173 @@
-# Báo cáo đọc Chương 06 — Người mới (không biết nhạc lý)
+# Audit Ch06 — Người đọc mới (không biết nhạc lý)
 
-**Người đọc:** Vừa mua cây D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào.
+**Người đọc:** Vừa mua cây D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào.  
 **Ngày:** 2026-08-20
 
 ---
 
 ## 1. Chỗ tắc
 
-### Lớp 1 — Chi tiết
+### 1.1 Ding = D3, không rõ ràng ở Lớp 1
+**Câu tắc:**
+> "Cụ thể: D lặp lại ở Ding (D3) và D4..."
 
-**Câu tắc 1 — Tab notation (không hiểu ký hiệu):**
+**Không hiểu:**
+- Lớp 1 nói "chủ âm" là Ding, nhưng sau đó bỏng dưng viết "D lặp lại ở Ding (D3)", mà không nói rõ **Ding = D3**.
+- Phần bậc nói: "Ding là bậc 1. Đếm tiếp theo bảy tên nốt gốc D-E-F-G-A-Bb-C, bạn có: D là bậc 1..." — thế thì Ding và D cùng là bậc 1 hay sao? Có phải đó là cùng một thứ không?
+- **Phải đọc tới Lớp 2 mới thấy "D (Ding và D4)" tôi mới hiểu Ding = D3.**
+- **MAJOR:** Cần nói rõ từ lần đầu: "Ding (tên gọi khác của D3)".
 
-Phần bài tập viết:
-> "Hai ô đầu là tám nốt đó (mỗi ô bốn nốt, cách đều nhau — mỗi nốt rơi đúng vào một nhịp đếm, đếm đều trong đầu 1-2-3-4 khi gõ), ô thứ ba là Ding kết bài, giữ cho ngân dài."
+---
 
-**Chỗ không hiểu:**
+### 1.2 "D natural minor" và "D Aeolian" — không giải thích
+**Câu tắc:**
+> "Thang âm riêng của trống bạn có tên gọi là **thang âm D thứ tự nhiên** (tên tiếng Anh là D natural minor, còn gọi là D Aeolian)."
 
-Khi tôi nhìn vào tab bên dưới:
+**Không hiểu:**
+- Ba cái tên khác nhau (D thứ tự nhiên, D natural minor, D Aeolian) — tôi không biết chúng có liên hệ gì.
+- "natural" — ý gì trong nhạc lý? (tự nhiên? không bị biến đổi?)
+- "minor" — tôi không biết (nhỏ? chế độ nhỏ? khóa nhỏ?)
+- "Aeolian" — hoàn toàn lạ, không giải thích.
+- **Chương chỉ nói "còn gọi là" nhưng không nói tại sao hay có liên hệ gì.**
+- **BLOCKER:** Ba cái tên khác nhau, không người mới sẽ hiểu được mối liên hệ. Chương không giúp được.
+
+---
+
+### 1.3 Tại sao D, A, C lặp lại nhưng E, F, G, Bb không?
+**Câu tắc:**
+> "D lặp lại ở Ding (D3) và D4; A lặp lại ở A3 và A4; C lặp lại ở C4 và C5. Còn Bb3, E4, F4, G4 thì mỗi thứ chỉ có đúng một "chai" duy nhất trên trống..."
+
+**Không hiểu:**
+- Tôi không biết tại sao layout trống được thiết kế như vậy.
+- Có phải đây chỉ là sự thật (cây D Kurd thiết kế như vậy) mà tôi không cần tìm lý do?
+- Hay có một lý do nhạc lý nào đó (có phải E, F, G, Bb ít quan trọng hơn sao?)
+- **MINOR:** Không rõ liệu tôi có thể dựa vào pattern này hay không. Nhưng có lẽ không cần hiểu để chơi được.
+
+---
+
+### 1.4 "Chủ âm" = "nốt nhà" — ý gì?
+**Câu tắc:**
+> "Bậc là số thứ tự của một nốt trong thang âm, đếm bắt đầu từ chủ âm (chủ âm — nốt "nhà", ở đây chính là Ding)."
+
+**Không hiểu:**
+- "Nốt nhà" — ý gì trong nhạc? Là nốt bắt đầu? Nốt căn bản? Nốt tâm của thang?
+- Tôi chỉ biết nó là Ding từ định nghĩa, không biết **tại sao** nó gọi là "nhà".
+- **MINOR:** Chương không giải thích khái niệm này. Nhưng có lẽ "nhà" chỉ là ẩn dụ để dễ nhớ.
+
+---
+
+### 1.5 Grid bài tập 1 — không hiểu ký hiệu
+**Câu tắc:**
+> "Gõ tám nốt bất kỳ trong mười nốt... Hai ô đầu là tám nốt đó (mỗi ô bốn nốt, cách đều nhau — mỗi nốt rơi đúng vào một nhịp đếm, đếm đều trong đầu 1-2-3-4)..."
+
+Rồi sau đó hiển thị:
 ```
  9 · C5  | ·  ·  ·  ·  ·  ·  ·  ·  ●  ·  ·  ·  ·  ·  ·  ·
+ 6 · F4  | ·  ·  ·  ·  ●  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ 4 · D4  | ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ●  ·  ·  ·
+ 1 · A3  | ●  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+ D · Ding| ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
  Tay     | P  ·  ·  ·  T  ·  ·  ·  P  ·  ·  ·  T  ·  ·  ·
 ```
 
-Tôi **không hiểu**:
-- Lưới này có 16 ô (cột). Nếu mỗi ô có 4 nốt, thì 16 ô này là 64 nốt sao? Hay 16 ô này chỉ biểu diễn 4 nốt?
-- "●" là gõ hay là không gõ? Chương không nói rõ.
-- "·" là gì so với "●"?
-- "P" và "T" là gì? Chương nói "chương 4 đã lo việc đó", nhưng tôi không nhớ (hoặc không học kỹ).
-- "ts=4/4" ở trên tab là gì? Chưa từng thấy ký hiệu này.
-
-Tôi hiểu ý chính của bài tập (gõ 8 nốt bất kỳ, kết bằng Ding), nhưng **không thể thực hành** vì không biết cách đọc tab.
-
----
-
-**Câu tắc 2 — "Phách đen" (không biết từ này):**
-
-Phần hướng dẫn bài tập 1 viết:
-> "Tốc độ gợi ý: chậm."
-> "**Ô 1 · 4/4 · đen**"
-
-**Chỗ không hiểu:**
-- "Phách" là gì? Tôi không từng nghe từ này. Liên hệ gì đến "đen"?
-- Tab có `id=sach_ch06_bai1 bar=1 ts=4/4` — tôi đoán "đen" có thể liên hệ đến `id` hoặc các ký hiệu khác, nhưng chương không giải thích.
+**Không hiểu:**
+- Mô tả nói "Gõ tám nốt bất kỳ", nhưng grid hiển thị những nốt cụ thể. **Tôi phải gõ những nốt này (theo grid) hay gõ 8 nốt bất kỳ khác?**
+- Grid có 16 cột (●, ·, v.v.), nhưng mô tả nói "mỗi ô bốn nốt". 16 cột này có phải 4 lần lặp 4 nhịp không?
+- "●" là "gõ", "·" là "lặng" — tôi đoán, nhưng chương không nói rõ.
+- Dòng "Tay | P · · · T · · · P · · · T · · ·" — "P" và "T" là gì? (Palm? Thumb? Chương không giải thích.)
+- "4/4" là gì? (time signature? 4 phách trên 4?)
+- "Ô 1 · 4/4 · đen" — "đen" là gì? (chương gọi Ô 2 là "đen" cũng, nên không phải màu.)
+- **BLOCKER:** Không thể thực hành bài tập 1 vì không hiểu grid.
 
 ---
 
-### Lớp 2 — Tóm tắt
+### 1.6 Bài tập 2 — "Tưởng tượng một nốt lạ"
+**Câu tắc:**
+> "Nghe xong, để một khoảng lặng cuối ô — đây là chỗ bạn tưởng tượng bằng lời (không gõ, vì trống không có nốt đó): nếu một nốt 'lạ' chen vào chỗ lặng này, cảm giác sẽ khựng lại khác hẳn ba nốt êm vừa nghe."
 
-Phần này không tắc. Tôi hiểu rõ qua ẩn dụ.
-
----
-
-### Bài tập 2 — So sánh D3 – A3 – D4
-
-Phần hướng dẫn:
-> "Gõ lần lượt Ding, A3, D4 — cả ba đều nằm trong thang D thứ tự nhiên."
-
-**Chỗ không hiểu:**
-
-Tôi hiểu cần gõ ba nốt này theo thứ tự. Nhưng **khi xem tab**:
-```
- 4 · D4  | ·  ·  ·  ·  ·  ·  ·  ·  ●  ·  ·  ·  ·  ·  ·  ·
- Tay     | P  ·  ·  ·  P  ·  ·  ·  T  ·  ·  ·  ·  ·  ·  ·
-```
-
-Tôi lại không hiểu:
-- Tôi gõ Ding bằng gì? P hay T?
-- "●" ở cột 9 (cột nào tính từ đâu?) là gõ nốt nào lúc nào?
-- Hàng "Tay" có "P" ở cột 1, rồi "P" ở cột 5, rồi "T" ở cột 9 — có phải tôi gõ ba lần (P, P, T)?
-
-Tab quá mơ hồ. Tôi biết nốt nào (Ding, A3, D4) từ chương trước, nhưng **không biết "khi nào" gõ theo tab**.
+**Không hiểu:**
+- "Một nốt lạ" — **nốt nào?** Chương không chỉ ra.
+- Làm sao tôi tưởng tượng được nốt lạ nghe thế nào nếu tôi chưa từng nghe nó?
+- "Khựng lại" — cảm giác nào? Tôi có thể tưởng tượng bằng lời, nhưng không có ví dụ thực tế.
+- **MINOR:** Chương yêu cầu tôi tưởng tượng cái tôi chưa biết. Khó, nhưng có thể chấp nhận.
 
 ---
 
 ## 2. Từ lạ (chưa được giải thích trong chương)
 
-### Từ được giải thích rõ:
-- **thang âm** — "một tập hợp nốt nhất định, dùng làm 'kho nguyên liệu' duy nhất cho một bài nhạc"
+### Được giải thích:
+- **thang âm** — "một tập hợp nốt nhất định"
 - **quãng tám** — "để phân biệt cùng một tên nốt nhưng độ cao khác nhau"
-- **chủ âm** — "nốt 'nhà', ở đây chính là Ding"
-- **bậc** — "số thứ tự của một nốt trong thang âm, đếm bắt đầu từ chủ âm"
-- **diatonic** (Lớp 3) — "Tính chất 'chỉ dùng đúng 7 nốt gốc, không lạc ra ngoài'"
+- **diatonic** — "tính từ chỉ việc một nốt thuộc đúng vào bảy nốt gốc của thang"
+- **bậc** — "số thứ tự của một nốt trong thang"
 
-### Từ KHÔNG được giải thích trong chương:
-- **"P" ở hàng Tay** — không nói đó là gì (chương 4?)
-- **"T" ở hàng Tay** — không nói đó là gì (chương 4?)
-- **"●" vs "·"** — không nói ký hiệu này là gõ hay không gõ
-- **"▬"** (xuất hiện ở Ô 3 của bài tập 1) — không nói đó là ký hiệu gì
-- **"ts=4/4"** — không nói đó là gì (time signature?)
-- **"phách đen"** — không giải thích từ này
-- **"bar=1, bar=2, bar=3"** — tab có `bar=1`, `bar=2`, `bar=3`, nhưng chương gọi chúng là "Ô 1", "Ô 2", "Ô 3"
+### KHÔNG được giải thích:
+- **"natural"** (trong "D natural minor") — không biết ý
+- **"minor"** (trong "D natural minor") — không biết ý
+- **"Aeolian"** — hoàn toàn lạ
+- **"P"** (dòng Tay) — không biết (Palm? Piston?)
+- **"T"** (dòng Tay) — không biết (Thumb? Tap?)
+- **"●" vs "·"** — tôi đoán ● = gõ, · = lặng, nhưng chương không nói rõ
+- **"▬"** (ở Ô 3, bài tập 1) — không biết (giữ dài?)
+- **"4/4"** — không giải thích (nhịp tử?)
+- **"đen"** — không hiểu (màu sắc? tốc độ? loại phách?)
+- **"bar"** (trong `bar=1, bar=2`) — không giải thích (chương gọi nó là "ô")
 
 ---
 
 ## 3. Thử làm theo
 
-### Phần Lớp 3 — Hack:
-
-**Hack #1: "Bí quá thì cứ gõ bừa trong 10 nốt"**
+### Hack #1: "Gõ bừa trong 10 nốt"
 - ✅ Tôi hiểu: gõ ngẫu nhiên, không sợ sai.
-- ✅ Tôi có thể làm được ngay, không cần hiểu tab.
+- ✅ Tôi có thể làm ngay.
 
-**Hack #2: "Công thức Ding – 3 nốt bất kỳ – Ding"**
-- ✅ Tôi biết Ding ở đâu (từ chương trước).
-- ✅ Tôi có thể gõ 3 nốt bất kỳ từ 9 tone field.
-- ✅ Có thể áp dụng ngay mà không cần hiểu lý thuyết.
+### Hack #2: "Ding – 3 nốt bất kỳ – Ding"
+- ✅ Tôi biết Ding ở đâu (chương trước).
+- ✅ Tôi gõ Ding, nhắm mắt gõ 3 nốt liên tiếp từ 9 tone field, rồi Ding lại.
+- ✅ Có thể làm ngay.
 
 ---
 
-### Bài tập 1 — Gõ ngẫu nhiên 8 nốt:
-
-**Phần hướng dẫn (text):**
-> "Gõ tám nốt bất kỳ trong mười nốt, không cần theo thứ tự thang âm, cứ để tay đi tự do trên bản đồ zigzag."
+### Bài tập 1
+**Mô tả text:** "Gõ tám nốt bất kỳ... không cần theo thứ tự..."
 
 **Tôi sẽ làm gì:**
-1. Tôi lấy bản đồ zigzag (học ở chương 4).
-2. Tôi gõ 8 nốt bất kỳ từ 10 nốt.
-3. Tôi kết bằng Ding, giữ ngân dài.
-4. Tôi đếm 1-2-3-4 trong đầu.
+- Bỏ qua grid (không hiểu).
+- Gõ 8 nốt bất kỳ từ 10 nốt.
+- Gõ Ding kết bài, giữ dài.
+- Đếm 1-2-3-4 trong đầu để giữ tốc độ chậm.
 
-✅ **Tôi có thể làm được phần này.**
-
-**Phần tab:**
-- ❌ Tôi KHÔNG biết làm theo tab.
-- Tôi sẽ bỏ qua tab, cứ gõ bừa như Hack #1.
+❌ **Tôi KHÔNG thể làm theo grid vì không hiểu ký hiệu.**
 
 ---
 
-### Bài tập 2 — So sánh D3 – A3 – D4:
-
-**Phần hướng dẫn (text):**
-> "Gõ lần lượt Ding, A3, D4 — cả ba đều nằm trong thang D thứ tự nhiên. Nghe xong, để một khoảng lặng cuối ô — đây là chỗ bạn tưởng tượng bằng lời (không gõ, vì trống không có nốt đó): nếu một nốt 'lạ' chen vào chỗ lặng này, cảm giác sẽ khựng lại khác hẳn ba nốt êm vừa nghe."
+### Bài tập 2
+**Mô tả text:** "Gõ lần lượt Ding, A3, D4..."
 
 **Tôi sẽ làm gì:**
-1. Tôi gõ Ding (từ chương trước, tôi biết vị trí).
-2. Tôi gõ A3 (vị trí ①).
-3. Tôi gõ D4 (vị trí ④).
-4. Tôi để lặng một chút.
-5. Tôi tưởng tượng một nốt lạ sẽ nghe thế nào (không gõ thật).
+1. Gõ Ding (từ chương trước, tôi biết vị trí).
+2. Gõ A3 (vị trí ①).
+3. Gõ D4 (vị trí ④).
+4. Lặng một lúc.
+5. Tưởng tượng một nốt lạ sẽ nghe thế nào (không gõ).
 
-✅ **Tôi có thể làm được phần này.**
-
-**Phần tab:**
-- ❌ Tôi KHÔNG biết "khi nào" mỗi nốt được gõ theo tab.
-- Tôi sẽ tự gõ ba nốt này trong một tốc độ chậm, không cần theo tab.
+✅ **Tôi có thể làm được phần này mà không cần grid.**
 
 ---
 
-## 4. Bài kiểm tra 10 tuổi (Lớp 2 tóm tắt)
+## 4. Bài kiểm tra 10 tuổi (Lớp 2)
 
-**Lớp 2 có 5 gạch đầu dòng:**
+Lớp 2 có 5 gạch:
+1. Thang âm là bộ nốt cố định — ✅ Hiểu qua ẩn dụ hộp gia vị.
+2. 10 nốt = 1 thang âm D thứ tự nhiên — ✅ "Nêm kiểu gì món cũng không sai vị" rất dễ hiểu.
+3. Bảy tên nốt gốc (D, E, F, G, A, Bb, C) — ✅ Có thể nhớ.
+4. Ba nốt lặp (D, A, C ở quãng tám khác) — ⚠️ Hơi khó nhớ, nhưng chương liệt kê rõ.
+5. Bậc = số thứ tự — ✅ Dễ hiểu như xếp hàng.
+6. Gõ bất kỳ tổ hợp nào cũng không "chối tai" — ✅ **ĐỀ XUẤT CHÍNH.** Rất rõ.
 
-1. **"Thang âm là một bộ nốt cố định..."** — Tôi (10 tuổi) hiểu qua ẩn dụ hộp gia vị. ✅
-2. **"Cả 10 nốt trên trống đều thuộc một thang âm gọi là D thứ tự nhiên"** — Ẩn dụ "nêm kiểu gì món cũng không sai vị" rất dễ hiểu. ✅
-3. **"Bảy tên nốt gốc: D, E, F, G, A, Bb, C"** — Có thể nhớ được (khoảng 10-12 tuổi). ✅
-4. **"Ba trong số đó lặp lại ở quãng tám khác"** — Hơi khó nhớ chi tiết, nhưng chương liệt kê rõ (D, A, C). ✅
-5. **"Bậc là số thứ tự của một nốt..."** — Dễ hiểu như xếp hàng. ✅
-6. **"Gõ bất kỳ tổ hợp nào trong 10 nốt cũng không chối tai"** — **ĐÂY LÀ ĐỀ XUẤT CHÍNH.** Tôi (10 tuổi) hiểu rõ. ✅
+**Kết luận:** Đứa 10 tuổi hiểu được ý chính: "Tất cả nốt cùng gia đình, không có nốt sai." Lớp 2 truyền tải điều đó rất tốt.
 
-**Kết luận:** Đứa 10 tuổi có thể nắm được **ý chính** của chương: "Tất cả nốt là một gia đình, không có nốt sai." Đây là tinh thần chương, và Lớp 2 truyền tải nó rất tốt.
-
-✅ **Tôi (10 tuổi) HIỂU được Lớp 2.**
+✅ **Tôi (10 tuổi) HIỂU Lớp 2.**
 
 ---
 
@@ -170,19 +177,21 @@ Tab quá mơ hồ. Tôi biết nốt nào (Ding, A3, D4) từ chương trước,
 
 ### Khích lệ (70%):
 - ✅ Ẩn dụ hộp gia vị rất hay, làm tôi yên tâm.
-- ✅ "Không có nốt sai" — đó là cảm giác **giải phóng**. Tôi không sợ lầm lạc nữa.
-- ✅ Hack #1 và #2 rất thực tế, có thể áp dụng ngay.
-- ✅ Muốn kiểm chứng: "Có thật không, gõ bừa mà không sai?"
+- ✅ **"Không có nốt sai"** — cảm giác **giải phóng**. Tôi không sợ bấm sai nữa.
+- ✅ Hack #1 và #2 rất đơn giản, có thể áp dụng ngay.
+- ✅ Muốn kiểm chứng: "Có thật không, gõ bừa mà vẫn nghe hợp?"
 
 ### Nản (30%):
-- ❌ Phần tab làm tôi nản. Tôi muốn theo bài tập, nhưng không hiểu ký hiệu.
-- ❌ Bài tập 2 nói "tưởng tượng nốt lạ", nhưng tôi không biết nốt lạ nghe thế nào — tôi chỉ tưởng tượng được bằng lời, không nghe thực tế (vì trống không có nốt đó).
-- ❌ Chương giả định tôi nhớ tab notation từ chương 4, nhưng tôi không nhớ hoặc không học kỹ.
+- ❌ Grid khiến tôi nản. Tôi muốn làm đúng bài tập, nhưng không hiểu ký hiệu.
+- ❌ Bài tập 2 nói "tưởng tượng nốt lạ", nhưng tôi không biết nghe thế nào — tôi chỉ tưởng tượng bằng lời, không có ví dụ thực tế.
+- ❌ Chương giả định tôi nhớ tab notation từ chương 4 (P, T, các ký hiệu), nhưng tôi không nhớ hoặc không học kỹ.
 
 ### Tóm lại:
-- **Cảm giác xuyên suốt:** Chương làm tôi tự tin và muốn thử ngay.
-- **Nhưng cũng hơi nản:** Vì phần bài tập không rõ ràng.
-- **Quyết định cuối cùng:** Tôi sẽ cầm trống lên và làm theo Hack #1 (gõ bừa), bỏ qua tab. Nếu tab rõ hơn, tôi sẽ làm bài tập chính thức, nhưng bây giờ tôi chỉ muốn thử cảm giác.
+- **Cảm giác chính:** Chương làm tôi **tự tin** vì không có nốt sai. Tôi muốn thử ngay Hack #1.
+- **Nhưng hơi nản:** Vì grid quá mơ hồ. Nếu rõ hơn, tôi sẽ tự tin hơn khi làm bài tập chính thức.
+- **Quyết định:** Tôi sẽ cầm trống lên, gõ bừa theo Hack #1, bỏ qua grid. Sau khi làm theo Hack, tôi sẽ cảm thấy tự tin hơn và có lẽ quay lại thử grid nếu chương khác giải thích rõ hơn.
+
+**Mức độ tự tin:** 65% (khích lệ) vs 35% (nản vì grid).
 
 ---
 
@@ -190,10 +199,13 @@ Tab quá mơ hồ. Tôi biết nốt nào (Ding, A3, D4) từ chương trước,
 
 | Mục | Tình trạng |
 |-----|-----------|
-| **Chỗ tắc chính** | Tab notation — không hiểu ký hiệu ●, ·, P, T, ▬, ts=4/4 |
-| **Từ lạ chưa giải thích** | "phách đen", "P", "T", các ký hiệu tab |
-| **Lớp 3 — Hack** | ✅ Hiểu, có thể làm ngay |
-| **Lớp 1 — Khái niệm** | ✅ Hiểu qua ẩn dụ |
-| **Bài kiểm tra 10 tuổi** | ✅ Hiểu được ý chính |
-| **Cảm giác** | 70% muốn chơi, 30% nản vì tab không rõ |
-| **Hành động tôi sẽ làm** | Làm theo Hack #1, bỏ qua tab |
+| **BLOCKER** | Grid notation — không hiểu ● · P T ▬ 4/4 "đen" |
+| **BLOCKER** | "D natural minor" + "D Aeolian" — 3 tên khác nhau, không giải thích |
+| **MAJOR** | Ding = D3 — không rõ ở Lớp 1, phải đến Lớp 2 mới hiểu |
+| **MINOR** | "Chủ âm" = "nốt nhà" — định nghĩa không rõ |
+| **Từ lạ** | P, T, ●, ·, ▬, 4/4, "đen" |
+| **Lớp 3 — Hack** | ✅ Hiểu, có thể làm ngay (không cần grid) |
+| **Lớp 1 — Khái niệm** | ✅ Hiểu (hộp gia vị) |
+| **Lớp 2 — 10 tuổi** | ✅ Hiểu ý chính |
+| **Cảm giác** | 65% muốn chơi, 35% nản vì grid không rõ |
+| **Hành động tôi sẽ làm** | Hack #1 + Hack #2 (bỏ qua grid) |
