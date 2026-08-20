@@ -23,3 +23,23 @@ Theo CLAUDE.md mục 6: chỉ BLOCKER + MAJOR chặn chương. MINOR gom ở đ�
 - **Câu dặn "Hàng Tay cứ bỏ qua" hơi dài dòng ở Bài tập 1** so với câu rút gọn tham chiếu ngược ở Bài tập 2. (Nguồn: audits/ch03_editor.md)
 - **Số đo "một gang tay" ở Hack #2 chưa có nguồn xác nhận trong `facts/dkurd.md`** (file không ghi kích thước trống/khoảng cách tone field) — cân nhắc xác nhận độ hợp lý với cỡ D Kurd thông thường, hoặc đổi thành mô tả tương đối không đo lường ("một đoạn ngắn, không cần với xa"). (Nguồn: audits/ch03_editor.md — chuyển fact-checker, KHÔNG XÁC MINH ĐƯỢC)
 - **Một số điểm beginner-reader còn tắc ở vòng cuối đều là kiến thức giả định từ chương trước** (liên hệ D3↔Ding, vị trí Ding, "ngân", "tone field", ký hiệu "P") — không phải lỗi riêng của ch03 vì reader chỉ đọc một chương độc lập; ghi nhận để `continuity` kiểm tra ở checkpoint chương 5 xem các chương trước có thực sự dạy đủ những khái niệm này chưa. (Nguồn: audits/ch03_reader.md, vòng 3)
+
+## Chương 4
+
+- **Hack #2 ở Lớp 3 gần như lặp lại Hack #1** — cả hai đều quy về "lẻ phải, chẵn trái", chỉ đổi cách diễn đạt theo tình huống, không thêm giá trị mới. (Nguồn: audits/ch04_editor.md)
+- **Câu dẫn "Mỗi ô gõ đúng bốn nốt liên tiếp" trước Bài tập 1 không khớp Ô 3** (Ô 3 chỉ có một nốt C5) — người mới có thể khựng lại tưởng thiếu nốt. (Nguồn: audits/ch04_editor.md)
+- **Từ chưa được giải thích chính thức lần đầu xuất hiện**: "quãng", "lóng ngóng", "bẻ nhỏ", "chạy", "ô", "ra đòn", "tăm tắp", "bật" (động từ), "tay thuận", "quãng giữa trống" — người mới đoán được nghĩa từ ngữ cảnh nhưng chưa có chú giải chính thức theo CLAUDE.md mục 0. (Nguồn: audits/ch04_reader.md, audits/ch04_reader_v2.md)
+- **Câu "Đừng nhìn tay khi gõ nếu có thể" (Lớp 1) gây hoang mang** — người mới chưa chơi lần nào không biết có nên nhìn tay lần đầu hay không, chương không làm rõ mốc thời điểm áp dụng. (Nguồn: audits/ch04_reader_v2.md)
+- **Vẫn tồn đọng sau vòng sửa 1**: Hack #2 ở Lớp 3 vẫn trùng lặp Hack #1; câu dẫn "Mỗi ô gõ đúng bốn nốt liên tiếp" trước Bài tập 1 vẫn mâu thuẫn với Ô 3 (chỉ 1 nốt) dù đã thêm câu giải thích phía sau. (Nguồn: audits/ch04_editor_v2.md, audits/ch04_editor_v3.md — đề nghị thay Hack #2 bằng mẹo "bẻ nhỏ bài tập" đã có sẵn ở Lớp 1)
+- **Câu chú thích dưới Ô 3 Bài tập 2** nói cheat sheet ghi Ding là "tuỳ thuận", nhưng bảng cheat sheet thực tế ghi dấu "—" cho Ding (chữ "tuỳ thuận" chỉ gắn với C5) — cần sửa câu văn hoặc sửa bảng cho khớp. (Nguồn: audits/ch04_editor_v3.md)
+- **Nên chạy script đếm từ tự động** để xác nhận chắc chắn Lớp 1 không vượt trần 1500 từ (ước tính tay hiện tại là ~1450–1500, sát trần). (Nguồn: audits/ch04_editor_v3.md)
+- **Từ "phản xạ" (Lớp 1) chưa giải thích** — người mới chưa chơi lần nào không hiểu "phản xạ" nghĩa là gì trong ngữ cảnh tập luyện. (Nguồn: audits/ch04_reader_v3.md)
+- **Câu cuối Lớp 2** ("...là bài luyện thuộc bản đồ nhanh nhất") hơi mơ hồ với người mới — không rõ "nhanh nhất" so với cái gì. (Nguồn: audits/ch04_reader_v3.md)
+
+## Chương 5
+
+- **Hack #1 (Lớp 3) sau khi vá ngoại lệ hơi cồng kềnh**: câu đầu nói chung "lặp mỗi pattern ít nhất 4 lần", câu sau phải đính chính chỉ áp dụng Pattern 1 (Pattern 2 = 2 lần, Pattern 3 = 1 lần) — người đọc phải nhớ ngoại lệ mới dùng đúng, hơi trái tinh thần "hack không cần nhớ lý thuyết". Cân nhắc viết lại gọn hơn khi rà toàn sách, ví dụ tách hẳn thành 2 dòng riêng theo từng pattern thay vì một câu + một ngoại lệ. (Nguồn: audits/ch05_editor.md, vòng cuối)
+- **Bảng Lớp 3 hàng Pattern 3 thiếu bước gõ Ding đầu**; câu "đếm thầm bốn nhịp một" hơi tối nghĩa. (Nguồn: audits/ch05_editor.md, vòng cuối)
+- **Tên phách "đen" cho lưới 4/4-16 cột** có thể chưa khớp quy ước đặt tên phách trong `facts/tab-notation.md` (tài liệu hiện dùng "móc đơn" cho lưới 6/8-12 cột) — cùng vấn đề nhất quán tên phách đã ghi nhận ở chương 2, nên xử một lượt cho toàn sách thay vì sửa riêng lẻ. (Nguồn: audits/ch05_editor.md, nhiều vòng)
+- **Nhiều thuật ngữ chương 1-4 (Ding, ngân, 9 tone field, zigzag, cao độ, khớp nhịp) không được nhắc lại/giải thích trong ch05** — đây là hệ quả của việc spec ch05 cho phép dùng thẳng "mọi khái niệm chương 1–4" mà không cần dạy lại; beginner-reader (chỉ đọc riêng ch05, không được đọc ch1-4) liên tục vướng vì thiếu ngữ cảnh. Không phải lỗi của riêng ch05, nhưng ghi nhận để cân nhắc: liệu sách có cần một trang tra cứu nhanh (mini-glossary) ở đầu mỗi chương từ ch05 trở đi cho người đọc lẻ từng chương. (Nguồn: audits/ch05_reader.md, nhiều vòng)
+- **Giới hạn cố hữu**: người mới không biết vị trí thực tế của A3/D4/E4 trên trống thật chỉ từ sơ đồ ASCII và số ô ①④⑤ — cùng loại giới hạn text-only đã ghi nhận ở chương 2, không sửa riêng ch05.
