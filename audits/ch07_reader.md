@@ -1,188 +1,143 @@
-# Báo cáo Đọc Chương 07 — Khoảng cách giữa các nốt
+# Báo cáo đọc Chương 07 — Khoảng cách giữa các nốt
 
-**Người đọc:** Mới mua handpan D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào.
+**Người đọc**: Mới mua handpan D Kurd, chưa biết nhạc lý, chưa chơi nhạc cụ nào.
 
 ---
 
 ## 1. Chỗ tắc
 
-### Khái niệm cơ bản chưa được giải thích
+### Chỗ không hiểu câu cụ thể
 
-**Dòng 7:** "Khoảng cách đó đo bằng đơn vị nhỏ nhất trong âm nhạc, gọi là **nửa cung**."
-- **Tắc:** Không biết "nửa cung" là gì. Chương chỉ nói nó là "đơn vị nhỏ nhất" để "đo" quãng, nhưng không giải thích:
-  - Nửa cung là gì vật lý?
-  - Cách nó được xác định như thế nào?
-  - Nó liên quan tới tần số, hình dáng trống, hay gì khác?
+**Câu:** "Từ chương 6, bạn đã biết mười nốt trên D Kurd và biết chúng thuộc về D thứ tự nhiên (bộ bảy tên nốt D-E-F-G-A-Bb-C mà cả mười nốt trên trống đều nằm trong đó)"
+- **Tắc:** Tôi chưa đọc chương 6. Không biết "D thứ tự nhiên" là gì, không biết "bộ bảy tên nốt" là gì. Chương liệt kê 7 tên nhưng nói "cả mười nốt trên trống đều nằm trong đó" — vậy 3 nốt còn lại ở đâu? Tôi bất hiểu logic này.
 
-**Dòng 7:** "Hai nửa cung gộp lại gọi là một **cung**"
-- **Tắc:** Không biết "cung" là gì. Chương nói nó "phổ biến nhất giữa các nốt liền kề" nhưng không giải thích:
-  - Cung dùng để đo cái gì?
-  - Tại sao nó gọi là "cung"?
+**Câu:** "cách gọi tên từng nốt theo **bậc** — D là bậc 1, E là bậc 2, và cứ thế đếm lên"
+- **Tắc:** Bị "bậc" lẫn với số ở đuôi nốt. Chương nói "E là bậc 2" nhưng sau đó lại viết "E4", "F4" — cái số "4" ở đây là gì? Tại sao không phải "bậc 2"? Không được giải thích.
 
-**Dòng 11, 86:** "mỗi nốt để ngân đủ một nhịp"
-- **Tắc:** Không biết "nhịp" là gì. Chương không giải thích một nhịp dài bao lâu hoặc nó được định nghĩa như thế nào.
+**Câu:** "Để không phải đoán mò, D Kurd có sẵn một bảng đo quãng tính từ Ding (D3) — chủ âm, nốt "nhà" của cả bài. Từ D đếm lên: E cách D 2 nửa cung, gọi là quãng 2 trưởng. F cách D 3 nửa cung..."
+- **Tắc:** Bảng liệt kê "E, F, G, A, Bb, C" mà không nói rõ "E là E3 hay E4? F là F3 hay F4?". Lúc đầu nó nói "E là bậc 2" nhưng lúc này lại viết "E cách D", không rõ "E" ở đây là nốt nào. Sau này bảng nói "E4 cách 2 nửa cung" — lúc này mới rõ. Bất hiểu sự không nhất quán này.
 
-**Dòng 12:** "để yên nghe tiếng ngân"
-- **Tắc:** Không biết "tiếng ngân" là gì. Handpan có âm dài hay là gõ xong tiếng lập tức biến mất?
+**Câu:** "Bb3 nằm gần người chơi hơn Ding trên sơ đồ (ô số ②), nhưng âm thanh của nó lại cao hơn D3 tới 8 nửa cung"
+- **Tắc:** Bb3 nằm "gần người chơi", tức là phía dưới Ding trên sơ đồ — tôi hiểu vậy. Nhưng "âm thanh cao hơn" — từ "cao" ở đây có ý là gì? Cao như giọng cao/thấp hay cao như mức âm thanh? Nếu Bb3 nằm dưới Ding, sao âm thanh lại "cao hơn"? Không logic.
 
-### Vị trí tay trên trống không rõ ràng
+**Câu:** "Lưu ý: số nửa cung này đếm theo **cao độ** — âm thanh cao lên bao nhiêu bậc thang nhỏ — không liên quan tới việc nốt nằm phía trên hay phía dưới Ding trên sơ đồ mặt trống."
+- **Tắc:** Từ "cao độ" xuất hiện lần đầu, chưa được định nghĩa trước. Câu nói "âm thanh cao lên" nhưng không rõ "cao" là gì — cao về tần số? cao về hình dáng? Tôi bất hiểu.
 
-**Dòng 11, bài tập 1:** "gõ D3 rồi gõ E4"
-- **Tắc:** Sơ đồ mặt trống (dòng 15-28) cho thấy ⑤ E4 bên phải Ding, nhưng chương không nói:
-  - Tôi phải gõ từ phía nào người chơi (trước, sau, trái, phải)?
-  - Tôi phải dùng tay phải hay tay trái?
-  - "Gõ" nghĩa là gì — gõ bằng cái gì (ngón, lòng bàn tay)?
+**Câu:** "Khi bạn chơi một câu giai điệu trên D Kurd, tai người nghe cũng đang "leo" đúng cái cầu thang nhỏ đó"
+- **Tắc:** "Giai điệu" là gì? Chương chưa giới thiệu khái niệm này. Tôi đoán nó có thể là "câu nhạc" hay "dãy nốt" nhưng không chắc. Từ này không được giải thích.
 
-### Bảng quãng có mâu thuẫn logic
+**Phần bài tập:**
+- **Câu:** "gõ liên tiếp D3–E4–F4–G4–A4, mỗi nốt để ngân đủ một nhịp rồi mới gõ nốt kế tiếp"
+- **Tắc:** "Ngân" là từ lạ, chưa được giải thích. "Nhịp" cũng không được giải thích. Tôi không biết "một nhịp" dài bao lâu. Tôi không biết phải làm gì.
 
-**Dòng 9 và dòng 42 (bảng Lớp 2):**
-
-Dòng 9 nói: "Bb cách D 8 nửa cung, gọi là quãng 6 thứ. C cách D 10 nửa cung, gọi là quãng 7 thứ."
-
-Bảng Lớp 2 (dòng 42-55) liệt kê tính từ D3 (Ding):
-- E4: 2 nửa cung
-- F4: 3 nửa cung
-- G4: 5 nửa cung
-- A4: 7 nửa cung
-- Bb3: 8 nửa cung ← **Tắc: Bb3 ở phía dưới Ding (sơ đồ ② phía dưới), sao lại cách 8 nửa cung mà không phải -8 hoặc khoảng âm?**
-- C4: 10 nửa cung ← **Tắc: C4 ở phía trên (sơ đồ ③ bên phải trên), cách 10 nửa cung từ D3 có hợp lý không?**
-
-**Tôi không hiểu:** Tính "nửa cung" từ D3 sao mà Bb3 (dưới) và A4 (trên) lại có cùng chiều tính tăng (+8, +10)? Với sơ đồ zigzag, tôi kỳ vọng các nốt dưới Ding phải âm hoặc có cách tính khác.
-
-### Lưới bài tập không khớp với mô tả
-
-**Bài tập 1 (dòng 65-68):**
-
-Mô tả: "gõ D3 rồi E4 (quãng 2 trưởng, 2 nửa cung)"
-
-Lưới ô 1 (dòng 71-75):
-```
- 5 · E4  | ·  ·  ·  ·  ●  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- D · Ding| ●  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
-- **Tắc:** D3 gõ ở cột 1, E4 gõ ở cột 5. Mô tả nói "rồi" (dường như liên tiếp hoặc nối nhau), nhưng lưới cho thấy chúng cách nhau 4 cột. "Tốc độ gợi ý: chậm" — không rõ thời gian chính xác giữa hai gõ.
-
-**Bài tập 2 (dòng 85-87, 89-105):**
-
-Mô tả: "gõ lần lượt năm nốt D3–E4–F4–G4–A4"
-
-Lưới ô 2 (dòng 101-105):
-```
- 8 · A4  | ●  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
- D · Ding| ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
-- **Tắc:** Ô 2 chỉ có A4 gõ ở cột 1, không có D3 nối theo sau. Mô tả không rõ: sau A4 tôi phải làm gì? Gõ D3 lại? Hoặc chỉ để nghe tiếng ngân của A4 mà thôi?
-
-### Điểm "dính" ở bài tập 2 chưa được giải thích
-
-**Dòng 32, bài tập 2:**
-> "Khi gõ chậm rãi năm nốt này, bạn hãy chú ý lắng nghe: có phải mọi quãng giữa hai nốt liền kề đều nghe "đều đều" như nhau không, hay có một chỗ nào đó bỗng nghe dính hơn hẳn những chỗ còn lại?"
-
-- **Tắc:** Chương nói "có một chỗ nào đó nghe dính hơn" nhưng không chỉ đúng chỗ nào. Nó hẹn "chương 8 sẽ giải thích". Vậy ở chương này, tôi chỉ "lắng nghe" mà chưa biết chữ nào được coi là "dính". Làm sao tôi xác minh nếu chưa hiểu khái niệm "quãng 2 trưởng" so với các quãng khác?
+**Đoạn hướng dẫn lưới:**
+- **Câu:** "Mỗi lưới đọc từ trái sang phải theo thời gian, mỗi cột là một ô nhỏ trong nhịp"
+- **Tắc:** "Lưới" là gì? Bảng dọc? Sơ đồ? Không được giải thích. "Nhịp" lại xuất hiện lần thứ n mà vẫn chưa giải thích.
 
 ---
 
-## 2. Từ lạ chưa được giải thích
+## 2. Từ lạ (chưa được giải thích)
 
-1. **nửa cung** (dòng 7) — Chỉ nói nó là "đơn vị nhỏ nhất", không giải thích cách xác định hay tính toán.
-2. **cung** (dòng 7) — Nói "2 nửa cung gộp lại", không nói dùng để đo cái gì hoặc tại sao gọi "cung".
-3. **tiếng ngân** (dòng 12) — Không giải thích handpan ngân âm dài hay biến mất nhanh.
-4. **nhịp** (dòng 11, 86) — Không giải thích một nhịp = bao lâu hoặc cách đo.
-5. **bậc** (dòng 9, 11) — Chương giả sử biết từ chương 6, không giải thích ở chương này.
-6. **D thứ tự nhiên** (dòng 9) — Giả sử biết từ chương 6, không giải thích.
-7. **zigzag** (dòng 13) — Chương nói "cách xếp zigzag mà chương 6 đã giới thiệu", nhưng tôi chưa đọc chương 6.
+1. **D thứ tự nhiên** — xuất hiện đoạn 2, không giải thích (yêu cầu biết từ chương 6)
+2. **cao độ** — xuất hiện đoạn 3, giải thích tạm "âm thanh cao lên" nhưng không rõ thế nào
+3. **giai điệu** — xuất hiện trong phần ẩn dụ "leo cầu thang", không định nghĩa
+4. **ngân** — xuất hiện trong bài tập, không giải thích (tôi đoán = để âm thanh kéo dài?)
+5. **nhịp** — xuất hiện nhiều lần (bài tập, lưới), không định nghĩa
+6. **lưới** — xuất hiện phần "Đọc lưới bài tập", không giải thích là gì
+7. **quãng** — định nghĩa trong chương nhưng định nghĩa không rõ từ "nốt" nào tính
+8. **bậc** — giả sử biết từ chương 6, không giải thích ở chương này
 
 ---
 
-## 3. Thử làm theo (Lớp 3 + Bài tập)
+## 3. Thử làm theo
 
-### Hack #1: "Chỉ cần nhớ số nửa cung"
+### Lớp 3 — Cheat sheet & Hack
 
-Hack này nói: không cần nhớ tên quãng ("trưởng", "thứ", "đúng"), chỉ nhớ số. Nhưng:
-- **Vấn đề:** Tôi chưa biết "E4 là 2 nửa cung" từ đâu mà mà "nhớ". Chương không dạy cách tính hoặc cách học số nửa cung. Tôi chỉ biết chương nói "E4 cách 2 nửa cung từ D3", nhưng không có cách xác minh nếu gõ sai trên trống.
+Đọc bảng và hai hack:
 
-### Hack #2: "Gõ hai nốt rồi tự hỏi dính hay mở"
+**Hack #1**: Nhớ hai mốc cực trị D3–E4 (dính nhất, 2 nửa cung) và D3–C4 (mở nhất, 10 nửa cung). Mọi cặp khác nằm đâu đó ở giữa.
+- → OK, tôi có thể nhớ được hai con số này.
 
-Hack này nói: tự hỏi "cặp này dính hay mở?" trước khi gọi tên quãng. Nhưng:
-- **Vấn đề:** Tôi chưa từng gõ handpan, không biết âm thanh của nó ra sao. "Dính" có phải là âm gần sát nhau không? "Mở" có phải là có khoảng trống không? Chương không cho ví dụ âm thanh hoặc mô tả chi tiết cảm giác.
+**Hack #2**: Khi gõ hai nốt, tự hỏi "dính hay mở?" trước khi gọi tên quãng. Tai trả lời trước, lý thuyết trả lời sau.
+- → OK, nghe hợp lý. Nhưng tôi chưa từng gõ handpan, không biết "dính" và "mở" nghe ra sao. Tôi sẽ cố gắng.
 
-### Bài tập 1: So sánh D3–E4 vs D3–F4
+### Bài tập 1 — So sánh D3–E4 và D3–F4
 
-Lưới cho thấy:
-- Ô 1: Gõ D3 (cột 1), rồi E4 (cột 5)
-- Ô 2: Gõ D3 (cột 1), rồi F4 (cột 5)
+**Mô tả:** "gõ D3 (Ding) rồi gõ E4, để hai tiếng vang lên nối tiếp nhau"
 
-**Tôi sẽ đưa tay:**
-1. Tìm ⑥ Ding (D3) ở sơ đồ, gõ bằng... ngón tay gì? (Chương không nói)
-2. Chờ 4 beat rồi tìm ⑤ E4, gõ bằng tay trái (theo lưới P=phải, T=trái)
-3. Để nghe "tiếng ngân" (mà tôi không biết nó là gì)
-4. Rồi gõ lại D3, gõ F4 ở ⑥
+**Tôi cần làm gì:**
+1. Tìm Ding (D3) trên sơ đồ → nó ở ◉ giữa
+2. Tìm E4 → sơ đồ nói ⑤ E4 bên phải
+3. Gõ D3, rồi gõ E4, nghe tiếng
 
 **Nhưng tôi không biết:**
-- Tôi phải gõ tay nào lần đầu? Lưới nói P (phải) nhưng sơ đồ không nói D3 ở phía nào.
-- E4 ở ⑤ "bên phải", F4 ở ⑥ "bên trái" — tôi phải ngồi vào mặt trống từ phía nào để đạt được điểm ⑤ và ⑥? Sơ đồ cho thấy "▲ NGƯỜI CHƠI ▲" ở dưới, nên tôi ngồi phía dưới sao?
+- Tôi phải ngồi ở phía nào của trống? Sơ đồ ghi "▲ NGƯỜI CHƠI ▲" ở dưới, nên tôi ngồi phía dưới đó sao?
+- Gõ bằng cái gì — ngón tay? lòng bàn tay? bàn tay thường hay giữ lòng bàn tay?
+- Lưới bảng nói "P = tay phải, T = tay trái" — OK, nhưng tay phải là phía nào trên trống? Trái hay phải của người chơi?
+- Lưới hiển thị D3 gõ ở cột 1, E4 gõ ở cột 5 — chúng cách nhau 4 "cột". Mô tả nói "nối tiếp nhau" nhưng lưới cho thấy chúng cách nhau. Tôi phải làm theo mô tả hay lưới?
 
-### Bài tập 2: Chuỗi năm nốt
+**Kết luận:** Tôi có ý tưởng chung (gõ D3 rồi gõ E4, nghe sự khác biệt) nhưng không biết gõ ở đâu, bằng gì, tay nào, chờ bao lâu giữa hai gõ.
 
-Lưới ô 1 gõ: D3 (cột 1), E4 (cột 5), F4 (cột 9), G4 (cột 13), A4 (ô 2 cột 1)
+### Bài tập 2 — Chuỗi năm nốt D3–E4–F4–G4–A4
 
-**Tôi sẽ đưa tay:**
-1. Gõ D3, chờ để nghe ngân
-2. Gõ E4, chờ
-3. Gõ F4, chờ
-4. Gõ G4, chờ
-5. Gõ A4, chờ
+**Mô tả:** "gõ lần lượt năm nốt D3–E4–F4–G4–A4, mỗi nốt để ngân đủ một nhịp"
 
-**Nhưng:**
-- Sơ đồ cho thấy A4 ở ⑧ (trên trái). Nó nằm cách G4 (⑦) một vị trí. Làm sao tôi gõ nhanh chóng 5 nốt này mà không bị lỏng tay?
-- Mô tả nói "mỗi nốt để ngân đủ một nhịp" nhưng "nhịp" là bao lâu tôi không biết. Tôi phải gõ tất cả 5 nốt mất bao lâu?
-- Chương nói "chú ý chỗ nào nghe dính hơn" — nhưng giữa D3–E4 cách 2 nửa cung (dính), E4–F4 cách 1 nửa cung (nên dính hơn?), F4–G4 cách 2 nửa cung (dính), G4–A4 cách 2 nửa cung (dính). Vậy chỗ nào là "khác lạ"? Chương không nói rõ.
+**Tôi cần làm gì:**
+1. Gõ D3, chờ "một nhịp"
+2. Gõ E4, chờ "một nhịp"
+3. Gõ F4, chờ "một nhịp"
+4. Gõ G4, chờ "một nhịp"
+5. Gõ A4, chờ "một nhịp"
+6. Lắng nghe chỗ nào "dính" hơn hẳn
 
----
+**Nhưng tôi không biết:**
+- "Một nhịp" dài bao lâu? Tôi không có đồng hồ, không có metronome, không biết tiêu chuẩn nào.
+- Sơ đồ cho thấy A4 ở ⑧ — nó nằm phía trên trái, cách xa G4 (⑦). Làm sao tôi gõ 5 nốt liên tiếp nhanh chóng mà không bị tay rơi?
+- Chương nói "chú ý chỗ nào nghe dính hơn" — tôi sẽ cố gắng lắng nghe, nhưng chương không cho biết "chỗ nào" là gì. Nó hẹn chương 8 sẽ giải thích. Vậy làm sao tôi xác minh tôi nghe đúng?
 
-## 4. Bài kiểm tra 10 tuổi (Lớp 2)
-
-**Lớp 2 (dòng 38-44) nói:**
-- "Quãng là khoảng cách giữa hai nốt, đo bằng số nửa cung"
-- "Cung = 2 nửa cung"
-- "Từ Ding (D3): E4 cách 2 nửa cung, F4 cách 3, G4 cách 5..."
-
-**Tôi hiểu được:**
-- Quãng = khoảng cách. ✓
-- Có thể so sánh "dính" vs "mở" bằng số. ✓
-
-**Tôi không hiểu được:**
-- "Nửa cung" là gì? Nó được đo từ đâu? ✗
-- "Cung" là gì nếu nửa cung chưa được giải thích? ✗
-- Tại sao "E4 cách 2 nửa cung từ D3"? Có công thức tính không? ✗
-- Tôi phải gõ D3–E4 từ sơ đồ mặt trống như thế nào? ✗
-
-**Kết luận:** Nếu tôi là đứa trẻ 10 tuổi, tôi sẽ hiểu "quãng nhỏ nghe dính, quãng lớn nghe mở" — cái này dễ hiểu từ ẩn dụ. Nhưng tôi sẽ không hiểu "nửa cung", "cung", hay tại sao bảng có các số như 2, 3, 5, 7, 8, 10. Tôi chỉ ghi nhớ những con số đó như lời bảo từ thầy cô mà không thực sự hiểu gốc rễ.
+**Kết luận:** Tôi hiểu ý chung (gõ 5 nốt lần lượt, chú ý cảm giác) nhưng không biết thực hiện cụ thể ra sao.
 
 ---
 
-## 5. Cảm giác sau khi đọc
+## 4. Bài kiểm tra 10 tuổi (Lớp 2 — tóm tắt 30 giây)
 
-**Muốn cầm trống lên chơi không?**
+Đọc lại Lớp 2:
+- "Quãng là khoảng cách giữa hai nốt, đo bằng số nửa cung — số càng nhỏ nghe càng "dính", số càng lớn nghe càng "mở"."
+  - OK, dễ hiểu: quãng nhỏ = dính, quãng lớn = mở. ✓
+- "Cung = 2 nửa cung, là khoảng cách phổ biến nhất giữa các nốt liền kề trên D Kurd."
+  - OK, "cung" là tên của 2 nửa cung. ✓
+- "Từ Ding (D3): E4 cách 2 nửa cung, F4 cách 3, G4 cách 5, A4 cách 7, Bb3 cách 8, C4 cách 10."
+  - OK, có bảng số liệu. Tôi ghi nhớ được. ✓
+- "Gõ D3–E4 rồi D3–F4: tai bạn nghe ra ngay cặp nào "dính" hơn cặp nào, dù chỉ khác nhau 1 nửa cung."
+  - OK, hướng dẫn rõ. ✓
+- "Gõ chuỗi D3–E4–F4–G4–A4, chú ý chỗ nào nghe khác lạ — chưa cần gọi tên, chương 8 sẽ giải thích."
+  - OK, hiểu là chỉ cần nghe mà thôi. ✓
 
-Có — tôi tò mò "D3–E4" nghe ra sao, "dính" thực sự là cảm giác gì. Nhưng...
+**Kết luận:** Một đứa trẻ 10 tuổi có thể hiểu ý chính của Lớp 2: "quãng nhỏ nghe dính, quãng lớn nghe mở". Nhưng nó sẽ tò mò "nửa cung" là gì, "cung" là gì, tại sao bảng có những con số cụ thể 2, 3, 5, 7, 8, 10. Nếu chương không giải thích gốc rễ, đứa trẻ sẽ chỉ ghi nhớ cơ học mà không thực sự hiểu.
 
-**Nhưng thấy nản vì:**
+---
 
-1. **Thiếu hướng dẫn cụ thể:** Sơ đồ mặt trống cho thấy 10 vị trí, nhưng chương không nói tôi phải:
-   - Ngồi như thế nào?
-   - Gõ từ phía nào?
-   - Dùng tay phải hay tay trái lần đầu?
-   - Gõ bằng ngón hay bàn tay?
+## 5. Cảm giác
 
-2. **Khái niệm không được giải thích:** "Nửa cung", "cung", "nhịp", "tiếng ngân" — tất cả đều xuất hiện mà không có định nghĩa. Tôi cảm thấy chương giả sử tôi đã biết từ chương 6, nhưng luật nói tôi chỉ được đọc ch07.
+**Sau khi đọc xong:**
 
-3. **Bảng không logic:** Bảng Lớp 2 nói "từ D3" rồi liệt kê A4, Bb3, C4 với số nửa cung tăng dần (2, 3, 5, 7, 8, 10). Nhưng sơ đồ cho thấy Bb3 ở phía dưới D3, A4 ở phía trên — chúng không phải "từ D3 đi lên" theo một hướng. Tôi cảm thấy có gì đó sai không rõ.
+Tôi **muốn** cầm trống lên thử gõ D3–E4 để nghe "dính", và gõ D3–C4 để nghe "mở". Tò mò ấy khiến tôi muốn thực hành ngay.
 
-4. **Bài tập lơ lỡ:** Bài tập 1 nói "gõ D3 rồi E4" nhưng lưới cho thấy chúng cách nhau 4 cột. Mô tả không khớp lưới, làm tôi không biết phải nghe theo mô tả hay làm theo lưới.
+**Nhưng cũng thấy nản vì:**
 
-5. **Hẹn chương sau:** Chương nói "chương 8 sẽ giải thích" chỗ nghe "khác lạ" ở bài tập 2. Vậy chương này chỉ cho tôi nghe mà không giải thích? Tôi cảm thấy chưa hoàn thành công việc.
+1. **Thiếu hướng dẫn cơ bản:** Chương giả sử tôi biết cách ngồi, gõ ở đâu, bằng gì, tay nào. Nhưng tôi chưa từng chơi handpan. Tôi không biết gõ bằng ngón hay bàn tay, gõ vào tấm kim loại hay tấm nước hay gì. Thiếu thông tin này, tôi không thể bắt đầu.
 
-**Cảm giác chung:** Tôi muốn thử gõ handpan, nhưng thiếu hướng dẫn cụ thể để tôi biết bắt đầu từ đâu. Chương này như một bản đề cương quá ngắn, còn quá nhiều chỗ trống tôi phải tự "biết" từ những chỗ khác (chương 6, hoặc kinh nghiệm cá nhân) mà chương không cung cấp.
+2. **Khái niệm nằm lơi lửng:** "Nửa cung", "cung", "cao độ", "nhịp" — tất cả đều xuất hiện mà không giải thích. Chương giả sử tôi biết từ chương 6, nhưng luật nói tôi chỉ được đọc chương này. Tôi cảm thấy chương bị cắt ngang.
+
+3. **Bảng không rõ logic:** Bảng nói "từ D3" rồi liệt kê E4, F4, G4, A4, Bb3, C4 với số nửa cung tăng dần (2, 3, 5, 7, 8, 10). Nhưng sơ đồ cho thấy:
+   - E4, F4, G4, A4 nằm phía trên
+   - Bb3 nằm phía dưới
+   - C4 nằm phía trên
+
+   Vậy sao chúng lại xếp thành một dãy tăng dần? Điều gì quy định thứ tự này? Không rõ.
+
+4. **Bài tập lơ lỡ:** Bài tập 1 nói "rồi gõ E4" (nối tiếp nhau) nhưng lưới cho thấy chúng cách nhau 4 cột. Nên tôi làm theo mô tả hay lưới? Chương không nói rõ. Nếu không biết tôi phải làm theo cái nào, tôi không thể bắt tay.
+
+5. **Hẹn chương sau:** Chương nói "chương 8 sẽ giải thích chỗ nghe khác lạ". Vậy bài tập 2 chỉ là "lắng nghe" mà không có "giải thích" sao? Tôi cảm thấy chương này không hoàn chỉnh.
+
+**Tóm lại cảm giác:** Muốn thử, nhưng không biết bắt đầu. Chương hay (ẩn dụ "cầu thang", "khoảng cách giữa hai người" hay), nhưng thiếu hướng dẫn cụ thể. Giống như ai đó mô tả công thức nấu ăn nhưng quên nói "bao nhiêu gam bơ, bao lâu trên lửa" — tôi hiểu ý tưởng nhưng không thể thực hành.
