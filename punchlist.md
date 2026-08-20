@@ -20,4 +20,6 @@ Theo CLAUDE.md mục 6: chỉ BLOCKER + MAJOR chặn chương. MINOR gom ở đ�
 
 - **Hack #2 ở Lớp 3 gần như lặp lại Hack #1** — cả hai đều quy về "lẻ phải, chẵn trái", chỉ đổi cách diễn đạt theo tình huống, không thêm giá trị mới. (Nguồn: audits/ch04_editor.md)
 - **Câu dẫn "Mỗi ô gõ đúng bốn nốt liên tiếp" trước Bài tập 1 không khớp Ô 3** (Ô 3 chỉ có một nốt C5) — người mới có thể khựng lại tưởng thiếu nốt. (Nguồn: audits/ch04_editor.md)
-- **Từ chưa được giải thích chính thức lần đầu xuất hiện**: "quãng", "lóng ngóng", "bẻ nhỏ", "chạy", "ô" — người mới đoán được nghĩa từ ngữ cảnh nhưng chưa có chú giải chính thức theo CLAUDE.md mục 0. (Nguồn: audits/ch04_reader.md)
+- **Từ chưa được giải thích chính thức lần đầu xuất hiện**: "quãng", "lóng ngóng", "bẻ nhỏ", "chạy", "ô", "ra đòn", "tăm tắp", "bật" (động từ), "tay thuận", "quãng giữa trống" — người mới đoán được nghĩa từ ngữ cảnh nhưng chưa có chú giải chính thức theo CLAUDE.md mục 0. (Nguồn: audits/ch04_reader.md, audits/ch04_reader_v2.md)
+- **Câu "Đừng nhìn tay khi gõ nếu có thể" (Lớp 1) gây hoang mang** — người mới chưa chơi lần nào không biết có nên nhìn tay lần đầu hay không, chương không làm rõ mốc thời điểm áp dụng. (Nguồn: audits/ch04_reader_v2.md)
+- **Vẫn tồn đọng sau vòng sửa 1**: Hack #2 ở Lớp 3 vẫn trùng lặp Hack #1; câu dẫn "Mỗi ô gõ đúng bốn nốt liên tiếp" trước Bài tập 1 vẫn mâu thuẫn với Ô 3 (chỉ 1 nốt) dù đã thêm câu giải thích phía sau. (Nguồn: audits/ch04_editor_v2.md)
