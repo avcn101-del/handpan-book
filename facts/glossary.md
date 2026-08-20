@@ -18,6 +18,7 @@
 | Vòng hoà thanh | Chord progression | Một chuỗi hợp âm nối tiếp nhau, lặp lại thành nền cho cả bài. |
 | Bậc | Scale degree | Số thứ tự của một nốt trong thang âm D thứ (D là bậc 1, E là bậc 2…) — dùng để nói "hợp âm bậc mấy" mà không cần nhớ tên nốt. |
 | Groove | Groove | Nhịp gõ lặp lại đều đặn tạo cảm giác "đung đưa được theo" — cái khiến người nghe gật đầu theo mà không cần nghĩ. |
+| Pattern | Pattern | Một câu ngắn lặp đi lặp lại nhiều lần, làm khung nhịp cho cả bài — như "à ơi" mẹ hát ru con. |
 | Ghost note | Ghost note | Cú gõ rất nhẹ, gần như chỉ nghe hơi, lấp đầy khoảng trống giữa các nốt chính mà không lấn át chúng. |
 | Tắt tiếng | Mute | Đặt tay lên tone field vừa gõ để chặn tiếng ngân lại ngay, tạo khoảng lặng có chủ đích. |
 | Ngân | Sustain | Tiếng nốt tự kéo dài sau khi gõ, cho tới khi tắt dần hoặc bị tắt tiếng chủ động. |
