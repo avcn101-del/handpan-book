@@ -15,3 +15,9 @@ Theo CLAUDE.md mục 6: chỉ BLOCKER + MAJOR chặn chương. MINOR gom ở đ�
 - **Nhãn tên phách không nhất quán giữa hai chương**: ch02 dùng "đen" cho lưới gõ đều mỗi 4 cột (ts=4/4), trong khi ch01 dùng "móc đơn" cho cấu trúc tương tự — `facts/tab-notation.md` chưa có bảng ánh xạ tên phách ↔ số cột tường minh nên chưa rõ bên nào đúng. Cân nhắc bổ sung bảng ánh xạ vào facts hoặc rà lại nhãn ở ch01. (Nguồn: audits/ch02_facts_v3.md)
 - **Vài từ/cụm chưa thật mượt với người mới** (không chặn tiến độ, chỉ hơi khựng): "nốt" (dòng đầu) dùng mà không nhắc lại định nghĩa từ ch01; "hòn đảo âm" ở đoạn Móc nối xuất hiện hơi đột ngột; từ "ngân" trong Lớp 2 ("để ngân một chút") hơi trừu tượng về thời lượng. (Nguồn: audits/ch02_reader_v2.md, ch02_reader_v4.md)
 - **Giới hạn cố hữu của sách text-only**: nhiều lượt beginner-reader báo không chắc tốc độ/tempo gõ thực tế (nhịp 4/4 kéo dài bao lâu) — đây là hạn chế chung của định dạng tab chữ không âm thanh, không phải lỗi riêng của chương này, ghi nhận để cân nhắc ở tầm toàn sách (ví dụ phụ lục giải thích tempo chung), không sửa riêng lẻ từng chương.
+
+## Chương 4
+
+- **Hack #2 ở Lớp 3 gần như lặp lại Hack #1** — cả hai đều quy về "lẻ phải, chẵn trái", chỉ đổi cách diễn đạt theo tình huống, không thêm giá trị mới. (Nguồn: audits/ch04_editor.md)
+- **Câu dẫn "Mỗi ô gõ đúng bốn nốt liên tiếp" trước Bài tập 1 không khớp Ô 3** (Ô 3 chỉ có một nốt C5) — người mới có thể khựng lại tưởng thiếu nốt. (Nguồn: audits/ch04_editor.md)
+- **Từ chưa được giải thích chính thức lần đầu xuất hiện**: "quãng", "lóng ngóng", "bẻ nhỏ", "chạy", "ô" — người mới đoán được nghĩa từ ngữ cảnh nhưng chưa có chú giải chính thức theo CLAUDE.md mục 0. (Nguồn: audits/ch04_reader.md)
