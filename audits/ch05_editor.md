@@ -4,26 +4,15 @@
 (không có)
 
 ## MAJOR
-
-- **Hack dùng ngay #1 mâu thuẫn với chính bài tập trong cùng chương.** Hack #1 (Lớp 3, dòng "Lặp mỗi pattern ít nhất 4 lần trước khi chuyển sang pattern kế tiếp") áp dụng chung cho "mỗi pattern", nhưng:
-  - Bài tập 2 (pattern 2 — giai điệu) tự quy định rõ "chơi trọn hai lần" và bảng cheat sheet cũng ghi "Chơi 2 lần" — không phải ≥4 lần. Tab chỉ in đúng 2 ô, không có dữ liệu cho lần lặp thứ 3–4.
-  - Bài tập 3 (pattern 3 — kết) tự quy định rõ "Chơi một lần duy nhất, ở cuối bài" — trực tiếp ngược với "lặp ít nhất 4 lần".
-  Người mới đọc xong Lớp 3 rất dễ áp dụng Hack #1 y nguyên cho cả 3 pattern (vì không có ngoại lệ nào được ghi), dẫn tới lặp pattern 3 tận 4 lần và phá hỏng đúng hiệu ứng "về nhà rồi ở lại lâu" mà Lớp 1 vừa dày công mô tả, hoặc cố lặp pattern 2 quá số ô đã in mà không có tab để theo.
-  → **Sửa cụ thể**: thêm một câu ngoặc ngay sau Hack #1, ví dụ: *"Riêng cách lặp này chỉ áp dụng cho Pattern 1 (nền) khi bạn tự tập trước — Pattern 2 luôn chơi đúng 2 lần, Pattern 3 chỉ chơi 1 lần duy nhất để giữ cảm giác kết bài."* Hoặc tách Hack #1 thành hai dòng riêng: một dòng cho pattern 1 (lặp tự do ≥4 lần cho quen tay), một dòng nói rõ pattern 2/3 có số lần lặp cố định, không áp dụng hack này.
-
-- **"Pattern" là khái niệm chương này chính thức giới thiệu nhưng chưa có trong `facts/glossary.md`.** CLAUDE.md mục 0 quy định: "Không tự chế thuật ngữ mới. Thiếu từ → thêm vào glossary trước, dùng sau." Từ "Pattern" xuất hiện hàng chục lần xuyên suốt cả 3 lớp của ch05 (kể cả in đậm ở Lớp 2) nhưng không có dòng tương ứng trong bảng glossary hiện tại (đã đọc `facts/glossary.md` — không có mục nào tên "Pattern"). Nếu không chốt định nghĩa chuẩn ở glossary trước, các chương sau (ví dụ chương dùng lại khái niệm pattern) có nguy cơ diễn đạt lệch nhau.
-  → **Sửa cụ thể**: thêm một dòng vào `facts/glossary.md`, ví dụ: `| Pattern | Pattern | Một câu ngắn lặp đi lặp lại nhiều lần, làm khung nhịp cho cả bài — như "à ơi" mẹ hát ru con. |` — thêm trước khi chốt chương 5, rồi các chương sau tham chiếu đúng dòng này.
+- **Hack dùng ngay #1 tự mâu thuẫn, không dùng ngay được nếu không nhớ ngoại lệ.** Câu đầu nói chung chung: "Lặp mỗi pattern ít nhất 4 lần trước khi chuyển sang pattern kế tiếp — không cần nhớ lý thuyết gì, cứ đếm số lần lặp trong đầu là đủ". Ngay câu sau lại phải đính chính: "Riêng cách lặp này chỉ áp dụng cho Pattern 1 ... Pattern 2 luôn chơi đúng 2 lần, Pattern 3 chỉ chơi 1 lần". Vậy hack thật ra có 3 luật khác nhau cho 3 pattern (4 lần / 2 lần / 1 lần) — người đọc phải nhớ hết cả ba mới áp dụng đúng, trái với mục đích "không cần nhớ lý thuyết" của Lớp 3. Bảng cheat sheet ngay phía trên (cột "Cách chơi ngắn gọn") đã ghi đúng số lần cho từng pattern rồi, nên hack #1 lặp lại thông tin đó theo kiểu gây hiểu lầm trước, sửa sai sau.
+  → Sửa: tách rõ hack #1 chỉ nói về lúc **tự luyện riêng Pattern 1** (trước khi ghép bài), không dùng câu mở đầu tổng quát "lặp mỗi pattern". Ví dụ: *"Khi tự tập riêng Pattern 1 (cái nền), cứ lặp ít nhất 4 lần cho tay quen — không cần đếm nhịp phức tạp, chỉ cần đếm số vòng lặp. Lúc ghép thành bài, nhớ đúng bảng trên: Pattern 2 chơi 2 lần, Pattern 3 chơi 1 lần để kết."* Bỏ câu đính chính rời phía dưới, gộp thẳng vào hack.
 
 ## MINOR
-
-- Đoạn mô tả vị trí Pattern 2 (Lớp 1, đoạn "Bốn nốt bạn dùng là A3 – D4 – E4 – D4..."): câu "D4 ở ô số ④ phía trên bên trái một chút" không nói rõ "phía trên" là so với đâu (so với Ding thì D4 thực ra nằm *dưới* Ding, chỉ là *trên* A3). Đoạn kế tiếp có làm rõ lại ("D4 nằm phía trên nó [A3] một nấc") nên không gây hiểu lầm kéo dài, nhưng câu đầu tiên nên tự đủ nghĩa.
-  → Sửa: đổi thành "D4 ở ô số ④, một nấc phía trên A3 và lệch sang bên trái".
-
-- Hàng `Tay` ở cả ba bài tập luôn gán Ding = `P` (tay phải), không đổi bên bao giờ, kể cả khi tay trái vừa đánh D4 ngay trước hoặc sau đó (ví dụ Bài tập 2, cột 5–7: Ding=P rồi D4=T ngay sau, cột 9 lại Ding=P). Có thể đây là chủ ý đơn giản hoá cho người mới (tay phải luôn giữ nhịp nền, tay trái mới đổi bên theo giai điệu), nhưng chương không nói rõ lý do — người đọc kỹ có thể thắc mắc sao Ding không bao giờ đổi tay trong khi cả bài đang nhấn mạnh "tay tự động đổi bên".
-  → Gợi ý: thêm một câu ngắn giải thích, ví dụ "Trong bài mẫu này, tay phải lo trọn phần Ding, tay trái rảnh ra để xử lý D4 khi cần."
+- Bảng Lớp 3, hàng "3 — Kết", cột "Cách chơi ngắn gọn" viết "Gõ D4 rồi tắt tiếng ngay, quay về Ding và để ngân dài tới hết" — bỏ sót bước gõ Ding đầu tiên (cột "Nốt dùng" bên cạnh có ghi nhưng cột mô tả cách chơi thì không), dễ khiến người đọc tưởng pattern 3 bắt đầu bằng D4. → Sửa thành: "Gõ Ding, rồi D4, tắt tiếng ngay, quay về Ding và để ngân dài tới hết."
+- Lớp 1, đoạn Pattern 1: "đếm thầm trong đầu bốn nhịp một" hơi tối nghĩa. → Sửa rõ hơn: "đếm thầm trong đầu 1-2-3-4".
 
 ## Chuyển fact-checker
+- Tiêu đề ô nhạc dùng "**Ô 1 · 4/4 · đen**" cho lưới 16 cột (ts=4/4). Mẫu chuẩn trong `facts/tab-notation.md` dùng "móc đơn" cho lưới 6/8 (12 cột, chia theo nốt móc đơn). Với 4/4 chia 16 cột (chia theo nốt móc kép/16th), tên phách "đen" (nốt đen = 1 phách, không phải đơn vị chia cột) có vẻ không khớp quy ước. Cần xác nhận tên phách đúng cho lưới 4/4-16 cột là gì trước khi chuẩn hoá toàn sách.
+- Gán tay P/T cụ thể trong Bài tập 2 (A3=P, D4=T, E4=P, D4=T) và Bài tập 3 (D4=T tại cột tắt tiếng, Ding luôn P) — nhờ đối chiếu `facts/dkurd.md` để xác nhận đúng quy tắc zigzag "lẻ phải, chẵn trái" áp dụng nhất quán, và Ding có mặc định luôn là tay phải hay tuỳ ngữ cảnh.
 
-- Xác nhận việc gán cố định Ding = tay phải (P) xuyên suốt cả 3 bài tập (kể cả khi liền kề D4 = tay trái) có hợp lý về mặt kỹ thuật chơi thực tế hay không, hay nên để tay linh hoạt hơn.
-
-## KẾT LUẬN: SỬA (0 blocker, 2 major)
+## KẾT LUẬN: SỬA (0 blocker, 1 major)
