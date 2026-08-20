@@ -2,15 +2,15 @@
  "notes": [
   {
    "t": 480,
-   "note": 64,
+   "note": 57,
    "fixed": false,
    "hand": "R"
   },
   {
    "t": 2400,
-   "note": 65,
+   "note": 60,
    "fixed": false,
-   "hand": "L"
+   "hand": "R"
   }
  ],
  "ding": [
