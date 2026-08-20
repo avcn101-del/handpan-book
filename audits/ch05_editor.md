@@ -5,22 +5,25 @@
 
 ## MAJOR
 
-- **Nợ khái niệm ở phần Móc nối — tiết lộ trước đáp án của chương 6, dùng thuật ngữ tự chế "họ âm".**
-  Đoạn cuối "Móc nối" viết: *"Chương 6 sẽ giải thích vì sao không nốt nào trong ba pattern hôm nay là 'sai'; bí mật nằm ở chỗ cả 10 nốt trên trống đều thuộc về cùng một họ âm, điều bạn đã thấy hiện tượng nhưng chưa biết lý do."*
-  Hai vấn đề cộng dồn:
-  1. Spec ch05 chỉ cho phép **"Gieo mầm chương 6"** (gợi mở, không giải thích cơ chế). Câu này lại nói thẳng cơ chế — "cùng một họ âm" — tức là giải luôn đáp án mà chương 6 (thang âm D thứ tự nhiên / diatonic) có nhiệm vụ dạy. Đối chiếu `specs/ch06.md` chưa đọc trực tiếp trong lượt soát này nhưng theo `facts/glossary.md` dòng 12, khái niệm "cả 10 nốt trên trống đều thuộc về" một thang âm chính là định nghĩa của **"D thứ tự nhiên"** — thuật ngữ chính thức bị liệt vào "Cấm đụng" của ch05.
-  2. "Họ âm" không phải từ có trong `facts/glossary.md`. Theo CLAUDE.md mục 0: *"Không tự chế thuật ngữ mới. Thiếu từ → thêm vào glossary trước, dùng sau."* Đây là thuật ngữ ăn theo ý nghĩa của "D thứ tự nhiên"/"diatonic" nhưng viết trại đi để né luật — vẫn tính là nợ khái niệm vì người đọc tiếp nhận đúng nội dung lý thuyết trước khi được dạy.
-  → **Sửa cụ thể**: bỏ vế giải thích cơ chế, chỉ giữ câu hỏi treo. Ví dụ thay bằng: *"Chương 6 sẽ giải thích vì sao không nốt nào trong ba pattern hôm nay là 'sai' — hôm nay bạn chỉ cần biết hiện tượng này luôn đúng, chưa cần biết lý do."* (Đúng những gì đoạn cuối Lớp 1, dòng 40, đã làm tốt — nên đồng bộ Móc nối theo đúng mức độ giữ bí mật đó, đừng giải thích thêm ở Móc nối.)
+- **Hack dùng ngay #1 mâu thuẫn với chính bài tập trong cùng chương.** Hack #1 (Lớp 3, dòng "Lặp mỗi pattern ít nhất 4 lần trước khi chuyển sang pattern kế tiếp") áp dụng chung cho "mỗi pattern", nhưng:
+  - Bài tập 2 (pattern 2 — giai điệu) tự quy định rõ "chơi trọn hai lần" và bảng cheat sheet cũng ghi "Chơi 2 lần" — không phải ≥4 lần. Tab chỉ in đúng 2 ô, không có dữ liệu cho lần lặp thứ 3–4.
+  - Bài tập 3 (pattern 3 — kết) tự quy định rõ "Chơi một lần duy nhất, ở cuối bài" — trực tiếp ngược với "lặp ít nhất 4 lần".
+  Người mới đọc xong Lớp 3 rất dễ áp dụng Hack #1 y nguyên cho cả 3 pattern (vì không có ngoại lệ nào được ghi), dẫn tới lặp pattern 3 tận 4 lần và phá hỏng đúng hiệu ứng "về nhà rồi ở lại lâu" mà Lớp 1 vừa dày công mô tả, hoặc cố lặp pattern 2 quá số ô đã in mà không có tab để theo.
+  → **Sửa cụ thể**: thêm một câu ngoặc ngay sau Hack #1, ví dụ: *"Riêng cách lặp này chỉ áp dụng cho Pattern 1 (nền) khi bạn tự tập trước — Pattern 2 luôn chơi đúng 2 lần, Pattern 3 chỉ chơi 1 lần duy nhất để giữ cảm giác kết bài."* Hoặc tách Hack #1 thành hai dòng riêng: một dòng cho pattern 1 (lặp tự do ≥4 lần cho quen tay), một dòng nói rõ pattern 2/3 có số lần lặp cố định, không áp dụng hack này.
+
+- **"Pattern" là khái niệm chương này chính thức giới thiệu nhưng chưa có trong `facts/glossary.md`.** CLAUDE.md mục 0 quy định: "Không tự chế thuật ngữ mới. Thiếu từ → thêm vào glossary trước, dùng sau." Từ "Pattern" xuất hiện hàng chục lần xuyên suốt cả 3 lớp của ch05 (kể cả in đậm ở Lớp 2) nhưng không có dòng tương ứng trong bảng glossary hiện tại (đã đọc `facts/glossary.md` — không có mục nào tên "Pattern"). Nếu không chốt định nghĩa chuẩn ở glossary trước, các chương sau (ví dụ chương dùng lại khái niệm pattern) có nguy cơ diễn đạt lệch nhau.
+  → **Sửa cụ thể**: thêm một dòng vào `facts/glossary.md`, ví dụ: `| Pattern | Pattern | Một câu ngắn lặp đi lặp lại nhiều lần, làm khung nhịp cho cả bài — như "à ơi" mẹ hát ru con. |` — thêm trước khi chốt chương 5, rồi các chương sau tham chiếu đúng dòng này.
 
 ## MINOR
 
-- Đoạn Lớp 1 dùng ẩn dụ "mẹ ru con / à ơi" xuyên suốt cả ba pattern (dòng 5, 11, 13, 34) — hợp lý làm mạch xuyên suốt, nhưng tới đoạn Pattern 3 lặp lại ẩn dụ này thêm một tầng ẩn dụ khác ("đi ra khỏi nhà... khép cửa... về nhà") chồng lên ẩn dụ ru con, hơi rối tầng hình ảnh. Gợi ý: bỏ bớt một trong hai lớp ẩn dụ ở đoạn Pattern 3, giữ ẩn dụ "về nhà" (khớp với "chủ âm = nhà" đã học từ chương 3) là đủ, không cần nhắc "à ơi" nữa ở đoạn này.
-- Nhãn phách `4/4 · đen` lặp lại giống nhau ở cả 3 bài tập dù cấu trúc gõ khác nhau (bài 1: đều đặn từng ô; bài 3: có khoảng nghỉ dài rồi giữ). Không sai nhưng hơi lười — nên xem lại có nên đổi tên phách cho từng bài để người đọc dễ hình dung mật độ gõ khác nhau hay không (MINOR, không bắt buộc sửa).
+- Đoạn mô tả vị trí Pattern 2 (Lớp 1, đoạn "Bốn nốt bạn dùng là A3 – D4 – E4 – D4..."): câu "D4 ở ô số ④ phía trên bên trái một chút" không nói rõ "phía trên" là so với đâu (so với Ding thì D4 thực ra nằm *dưới* Ding, chỉ là *trên* A3). Đoạn kế tiếp có làm rõ lại ("D4 nằm phía trên nó [A3] một nấc") nên không gây hiểu lầm kéo dài, nhưng câu đầu tiên nên tự đủ nghĩa.
+  → Sửa: đổi thành "D4 ở ô số ④, một nấc phía trên A3 và lệch sang bên trái".
+
+- Hàng `Tay` ở cả ba bài tập luôn gán Ding = `P` (tay phải), không đổi bên bao giờ, kể cả khi tay trái vừa đánh D4 ngay trước hoặc sau đó (ví dụ Bài tập 2, cột 5–7: Ding=P rồi D4=T ngay sau, cột 9 lại Ding=P). Có thể đây là chủ ý đơn giản hoá cho người mới (tay phải luôn giữ nhịp nền, tay trái mới đổi bên theo giai điệu), nhưng chương không nói rõ lý do — người đọc kỹ có thể thắc mắc sao Ding không bao giờ đổi tay trong khi cả bài đang nhấn mạnh "tay tự động đổi bên".
+  → Gợi ý: thêm một câu ngắn giải thích, ví dụ "Trong bài mẫu này, tay phải lo trọn phần Ding, tay trái rảnh ra để xử lý D4 khi cần."
 
 ## Chuyển fact-checker
 
-- Hàng `Tay` ở Bài tập 2: Ding luôn gán `P` (tay phải) ở mọi lần gõ (cột 1, 5, 9, 13), trong khi 4 nốt giai điệu luân phiên `P–T–P–T`. Cần xác nhận quy ước "Ding luôn đánh bằng một tay cố định trong khi tay kia chơi giai điệu" có đúng kỹ thuật/thực tế chơi handpan hay không, hay Ding cũng nên đổi tay theo nhịp thở tự nhiên như lời văn ở đoạn Pattern 1 gợi ý ("có nhịp thở riêng").
-- Nhãn `4/4 · đen` (tên phách "đen"/quarter note) cho lưới 16 cột — đối chiếu `facts/tab-notation.md` mục 4 xem tên phách này có đúng quy ước đặt tên (ví dụ ví dụ mẫu trong tab-notation.md dùng "móc đơn" cho 6/8/12 cột) hay cần đổi tên phách khác cho nhất quán.
-- Ánh xạ số ô ①④⑤ ↔ A3/D4/E4 trong đoạn mô tả vị trí (dòng 32) và trong bảng Lớp 3 khớp với `facts/dkurd.md` mục 1 — đã đối chiếu bằng mắt thấy khớp, nhưng đề nghị fact-checker xác nhận lại chính thức vì đây là nội dung định vị không gian quan trọng cho người mới.
+- Xác nhận việc gán cố định Ding = tay phải (P) xuyên suốt cả 3 bài tập (kể cả khi liền kề D4 = tay trái) có hợp lý về mặt kỹ thuật chơi thực tế hay không, hay nên để tay linh hoạt hơn.
 
-## KẾT LUẬN: SỬA (0 blocker, 1 major)
+## KẾT LUẬN: SỬA (0 blocker, 2 major)
