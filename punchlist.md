@@ -16,6 +16,14 @@ Theo CLAUDE.md mục 6: chỉ BLOCKER + MAJOR chặn chương. MINOR gom ở đ�
 - **Vài từ/cụm chưa thật mượt với người mới** (không chặn tiến độ, chỉ hơi khựng): "nốt" (dòng đầu) dùng mà không nhắc lại định nghĩa từ ch01; "hòn đảo âm" ở đoạn Móc nối xuất hiện hơi đột ngột; từ "ngân" trong Lớp 2 ("để ngân một chút") hơi trừu tượng về thời lượng. (Nguồn: audits/ch02_reader_v2.md, ch02_reader_v4.md)
 - **Giới hạn cố hữu của sách text-only**: nhiều lượt beginner-reader báo không chắc tốc độ/tempo gõ thực tế (nhịp 4/4 kéo dài bao lâu) — đây là hạn chế chung của định dạng tab chữ không âm thanh, không phải lỗi riêng của chương này, ghi nhận để cân nhắc ở tầm toàn sách (ví dụ phụ lục giải thích tempo chung), không sửa riêng lẻ từng chương.
 
+## Chương 3
+
+- **Đoạn 3 Lớp 1 hơi dài (~270 từ), gộp giải thích D3/D4 và ẩn dụ chuông gió trong một khối** — có thể tách làm hai đoạn để dễ đọc hơn. (Nguồn: audits/ch03_editor.md, vòng ĐẠT)
+- **Chồng nhiều tầng ẩn dụ cho cùng một ý** (mẹ gọi/em gọi → chuông gió → rời nhà rồi về) — không sai nhưng hơi nhiều, có thể gọn lại còn ẩn dụ "mẹ gọi — em gọi" xuyên suốt. (Nguồn: audits/ch03_editor.md)
+- **Câu dặn "Hàng Tay cứ bỏ qua" hơi dài dòng ở Bài tập 1** so với câu rút gọn tham chiếu ngược ở Bài tập 2. (Nguồn: audits/ch03_editor.md)
+- **Số đo "một gang tay" ở Hack #2 chưa có nguồn xác nhận trong `facts/dkurd.md`** (file không ghi kích thước trống/khoảng cách tone field) — cân nhắc xác nhận độ hợp lý với cỡ D Kurd thông thường, hoặc đổi thành mô tả tương đối không đo lường ("một đoạn ngắn, không cần với xa"). (Nguồn: audits/ch03_editor.md — chuyển fact-checker, KHÔNG XÁC MINH ĐƯỢC)
+- **Một số điểm beginner-reader còn tắc ở vòng cuối đều là kiến thức giả định từ chương trước** (liên hệ D3↔Ding, vị trí Ding, "ngân", "tone field", ký hiệu "P") — không phải lỗi riêng của ch03 vì reader chỉ đọc một chương độc lập; ghi nhận để `continuity` kiểm tra ở checkpoint chương 5 xem các chương trước có thực sự dạy đủ những khái niệm này chưa. (Nguồn: audits/ch03_reader.md, vòng 3)
+
 ## Chương 4
 
 - **Hack #2 ở Lớp 3 gần như lặp lại Hack #1** — cả hai đều quy về "lẻ phải, chẵn trái", chỉ đổi cách diễn đạt theo tình huống, không thêm giá trị mới. (Nguồn: audits/ch04_editor.md)
