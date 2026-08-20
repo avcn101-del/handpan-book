@@ -27,3 +27,11 @@ Theo CLAUDE.md mục 6: chỉ BLOCKER + MAJOR chặn chương. MINOR gom ở đ�
 - **Nên chạy script đếm từ tự động** để xác nhận chắc chắn Lớp 1 không vượt trần 1500 từ (ước tính tay hiện tại là ~1450–1500, sát trần). (Nguồn: audits/ch04_editor_v3.md)
 - **Từ "phản xạ" (Lớp 1) chưa giải thích** — người mới chưa chơi lần nào không hiểu "phản xạ" nghĩa là gì trong ngữ cảnh tập luyện. (Nguồn: audits/ch04_reader_v3.md)
 - **Câu cuối Lớp 2** ("...là bài luyện thuộc bản đồ nhanh nhất") hơi mơ hồ với người mới — không rõ "nhanh nhất" so với cái gì. (Nguồn: audits/ch04_reader_v3.md)
+
+## Chương 5
+
+- **Hack #1 (Lớp 3) sau khi vá ngoại lệ hơi cồng kềnh**: câu đầu nói chung "lặp mỗi pattern ít nhất 4 lần", câu sau phải đính chính chỉ áp dụng Pattern 1 (Pattern 2 = 2 lần, Pattern 3 = 1 lần) — người đọc phải nhớ ngoại lệ mới dùng đúng, hơi trái tinh thần "hack không cần nhớ lý thuyết". Cân nhắc viết lại gọn hơn khi rà toàn sách, ví dụ tách hẳn thành 2 dòng riêng theo từng pattern thay vì một câu + một ngoại lệ. (Nguồn: audits/ch05_editor.md, vòng cuối)
+- **Bảng Lớp 3 hàng Pattern 3 thiếu bước gõ Ding đầu**; câu "đếm thầm bốn nhịp một" hơi tối nghĩa. (Nguồn: audits/ch05_editor.md, vòng cuối)
+- **Tên phách "đen" cho lưới 4/4-16 cột** có thể chưa khớp quy ước đặt tên phách trong `facts/tab-notation.md` (tài liệu hiện dùng "móc đơn" cho lưới 6/8-12 cột) — cùng vấn đề nhất quán tên phách đã ghi nhận ở chương 2, nên xử một lượt cho toàn sách thay vì sửa riêng lẻ. (Nguồn: audits/ch05_editor.md, nhiều vòng)
+- **Nhiều thuật ngữ chương 1-4 (Ding, ngân, 9 tone field, zigzag, cao độ, khớp nhịp) không được nhắc lại/giải thích trong ch05** — đây là hệ quả của việc spec ch05 cho phép dùng thẳng "mọi khái niệm chương 1–4" mà không cần dạy lại; beginner-reader (chỉ đọc riêng ch05, không được đọc ch1-4) liên tục vướng vì thiếu ngữ cảnh. Không phải lỗi của riêng ch05, nhưng ghi nhận để cân nhắc: liệu sách có cần một trang tra cứu nhanh (mini-glossary) ở đầu mỗi chương từ ch05 trở đi cho người đọc lẻ từng chương. (Nguồn: audits/ch05_reader.md, nhiều vòng)
+- **Giới hạn cố hữu**: người mới không biết vị trí thực tế của A3/D4/E4 trên trống thật chỉ từ sơ đồ ASCII và số ô ①④⑤ — cùng loại giới hạn text-only đã ghi nhận ở chương 2, không sửa riêng ch05.
