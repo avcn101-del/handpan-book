@@ -1,122 +1,136 @@
-# Audit Chương 07 — Khoảng cách giữa các nốt
-## Người đọc: Mới mua D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào
+# Báo cáo độc giả: Chương 07 — Khoảng cách giữa các nốt
+
+**Độc giả:** Người mới mua handpan D Kurd, không biết nhạc lý, chưa chơi nhạc cụ nào.
 
 ---
 
 ## 1. Chỗ tắc
 
-**Tắc #1: "tone field"**
-- Câu gốc (Lớp 1, cuối): "dù cả hai tone field đều nằm cùng bên trên mặt trống"
-- Không hiểu: Từ "tone field" được dùng mà không được giải thích. Từ bối cảnh tôi đoán nó có nghĩa là "vùng chơi" hoặc "khu vực trên trống", nhưng không chắc. Chương không giới thiệu chính thức.
+### Tắc #1: "tone field" (Lớp 1, dòng 15)
+**Câu gốc:** "dù cả hai tone field đều nằm cùng bên trên mặt trống"
+**Không hiểu:** Từ "tone field" xuất hiện lần đầu mà không được giải thích. Từ bối cảnh tôi đoán nó là "vùng trên mặt trống" hay "khu vực chơi", nhưng không chắc. Tôi không biết định nghĩa chính xác.
 
-**Tắc #2: Vị trí cụ thể của E4, F4, G4 trên mặt trống**
-- Câu gốc (Bài tập 2): "Gõ lần lượt năm nốt D3–E4–F4–G4–A4"
-- Không hiểu: Sơ đồ chỉ show các nốt với ô số ①-⑨, nhưng lưới bài tập 2 ghi "7 · G4", "6 · F4", "5 · E4". Những con số 7, 6, 5 này đại diện cho cái gì? Là vị trí trên mặt trống hay là bậc (degree) nào đó? Nếu E4 ở ô ⑤ trên sơ đồ, thì tại sao lưới lại ghi "5"? Tôi không biết E4, F4, G4 chính xác ở đâu để gõ.
+### Tắc #2: Số trong lưới bài tập là gì? (Bài tập 2, dòng 89-103)
+**Câu gốc:** Lưới ghi "7 · G4", "6 · F4", "5 · E4" nhưng sơ đồ ở dòng 17-30 ghi các nốt bằng ⑤, ⑥, ⑦, ⑧, ⑨
+**Không hiểu:** Số 5, 6, 7 trong lưới có phải là "ô số" trên sơ đồ không? Tại sao sơ đồ dùng ⑤ ⑥ ⑦ nhưng lưới bài tập dùng 5 6 7? Hay những số này là cái gì khác (bậc?)? Sự không nhất quán làm tôi bối rối. Tôi không biết E4 chính xác ở đâu trên trống.
 
-**Tắc #3: Cách đọc lưới bài tập**
-- Câu gốc (Lớp 3): "mỗi cột là một ô nhỏ trong nhịp — khoảng cách giữa hai cột chính là khoảng thời gian bạn phải chờ"
-- Không hiểu: Lưới bài tập 1 có hai hàng (hàng "1 · A3" và hàng "D · Ding"). Tôi gõ D3 rồi A3 lần lượt (không gõ cùng lúc) đúng không? Hay tôi gõ cả hai cùng một lúc (polyphony)? Dòng "Tay | P  ·  ·  ·  P" ghi 2 chỗ có P, nhưng không rõ là gõ cùng lúc hay riêng rẽ.
+### Tắc #3: Vị trí các nốt E4, F4, G4, A4 (Bài tập 2)
+**Câu gốc:** "Gõ lần lượt năm nốt D3–E4–F4–G4–A4"
+**Không hiểu:** Sơ đồ ở dòng 17-30 chỉ có 9 nốt được đánh số ① đến ⑨, và ghi tên như "C5", "A4", "G4", v.v. Nhưng sơ đồ này rất nhỏ, chỉ mô phỏng. Tôi không biết từng ô chính xác ở vị trí nào trên mặt trống thực tế. Bài tập yêu cầu gõ E4, F4, G4, A4 liên tiếp, nhưng không cho vị trí chi tiết → tôi sẽ phải dò tìm.
 
-**Tắc #4: Cảm giác "nửa cung"**
-- Câu gốc (Lớp 1): "nửa cung nghe hơi "cọ sát", hơi "căng"... tai bạn nghe ra chút ma sát nho nhỏ giữa chúng"
-- Không hiểu: Tôi chưa từng nghe cảm giác "ma sát" bao giờ. "Ma sát nho nhỏ" là cảm giác gì trong tai? Hai nốt sát sạt với nhau hay bụi bặm hay gì khác?
+### Tắc #4: "Một nhịp" là bao lâu? (Bài tập 1 & 2)
+**Câu gốc:** "cách nhau đúng một nhịp" (Bài tập 1), "mỗi nốt để ngân đủ một nhịp" (Bài tập 2)
+**Không hiểu:** Bài tập nói "Tốc độ gợi ý: chậm" nhưng không có con số cụ thể (BPM, giây, hay gì). "Một nhịp" trong lưới là 4 cột, nhưng 4 cột mất bao lâu? Tôi sẽ phải tự cảm giác hay nghe audio để biết.
 
-**Tắc #5: Khái niệm "bậc" trong lưới bài tập**
-- Câu gốc (Lớp 1): "D là bậc 1, E là bậc 2, cứ thế đếm lên"
-- Không hiểu: Bậc là gì chính xác? Là thứ tự trong dãy D-E-F-G-A-Bb-C-D? Nhưng D3 và D4 là cùng bậc hay khác? Trong lưới, tôi thấy "5 · E4" — số 5 là bậc của E4 sao? Nếu thế, E3 có phải là bậc 5 hay bậc khác?
+### Tắc #5: Gõ lần lượt hay cùng lúc? (Bài tập 1)
+**Câu gốc:** Lưới bài tập 1 có hàng "1 · A3" và hàng "D · Ding", với "Tay | P · · · P · · ·"
+**Không hiểu:** Dòng "Tay" có 2 chỗ P (cột 1 và 5). Tôi có gõ D3 và A3 **lần lượt** (một rồi một) hay **cùng lúc** (cả hai một lúc)? Lưới không rõ ràng. Từ Lớp 1 (dòng 13) "gõ D3 rồi gõ A3, để hai tiếng vang nối tiếp nhau" → hiểu là lần lượt. Nhưng lưới lại viết như thế nào để biểu diễn "lần lượt"?
 
-**Tắc #6: "D thứ tự nhiên" là gì**
-- Câu gốc (Lớp 1): "biết chúng thuộc về D thứ tự nhiên (bộ bảy tên nốt D-E-F-G-A-Bb-C..."
-- Không hiểu: Chương nói "từ chương 6, bạn đã biết" nhưng tôi không được đọc chương 6. "D thứ tự nhiên" là một mode hay scale cụ thể sao? Tại sao không có B mà có Bb?
+### Tắc #6: "Cảm giác dính" là gì cụ thể? (Bài tập 2, dòng 85)
+**Câu gốc:** "chú ý lắng nghe: có một chỗ nào đó bỗng nghe dính hơn hẳn những chỗ còn lại"
+**Không hiểu:** Tôi chưa từng nghe nhạc có cảm giác "dính". Có phải hai nốt sát sạt với nhau, hay có tiếng "xọc xạc", hay có tiếng sảy, hay cái gì khác? Chương không mô tả cảm giác "dính" bằng từ nào khác. Tôi cảm thấy được để "lơ lửng" — chương bắt tôi tìm chỗ "dính" nhưng không nói nó nghe như thế nào.
 
-Trôi hết phần còn lại.
+### Tắc #7: "D thứ tự nhiên" là gì? (Lớp 1, dòng 5)
+**Câu gốc:** "biết chúng thuộc về D thứ tự nhiên (bộ bảy tên nốt D-E-F-G-A-Bb-C..."
+**Không hiểu:** Chương nói "từ chương 6, bạn đã biết" nhưng tôi chưa đọc chương 6. "D thứ tự nhiên" là mode sao, scale sao, hay cách gọi khác? Tại sao gọi "thứ tự nhiên"? Tại sao có Bb mà không có B bình thường?
 
 ---
 
 ## 2. Từ lạ
 
-1. **"tone field"** — dùng mà không định nghĩa
-2. **"nửa cung"** — định nghĩa bằng ẩn dụ cầu thang, nhưng cảm giác "ma sát" vẫn mơ hồ
-3. **"cung"** — giải thích là "2 nửa cung" nhưng không rõ tại sao lại gọi như vậy
-4. **"bậc"** — giới thiệu "D là bậc 1, E là bậc 2" nhưng không rõ bậc dùng để làm gì, bậc có thay đổi theo octave (D3 vs D4) không
-5. **"D thứ tự nhiên"** — dùng như sự thật từ chương 6, không giải thích trong chương này
-6. **"bộ bảy tên nốt"** — tại sao "bảy"? Tại sao lại D-E-F-G-A-Bb-C (không B)?
-7. **"Ding"** — gọi là "nốt nhà, chủ âm" nhưng "chủ âm" là gì?
+1. **"tone field"** — xuất hiện mà không định nghĩa (Tắc #1)
+2. **"nửa cung"** — được định nghĩa qua ẩn dụ cầu thang nhỏ, nhưng cảm giác "ma sát" trong câu "tai bạn nghe ra chút ma sát nho nhỏ giữa chúng" vẫn mơ hồ (Lớp 1, dòng 9)
+3. **"cung"** — giải thích là "2 nửa cung" nhưng không rõ tại sao lại gọi là "cung", có ý gì không (Lớp 2, dòng 39)
+4. **"bậc"** — giới thiệu "D là bậc 1, E là bậc 2" nhưng không rõ bậc là gì chính xác (Lớp 1, dòng 7)
+5. **"D thứ tự nhiên"** — dùng như sự thật từ chương 6, không giải thích (Tắc #7)
+6. **"chủ âm"** — nói D3 là "nốt nhà, chủ âm" nhưng không định nghĩa "chủ âm" là gì (Lớp 1, dòng 11)
+7. **"zigzag"** — ghi "quy luật zigzag mà chương 6 đã giới thiệu" nhưng tôi chưa biết quy luật đó (Lớp 1, dòng 32)
 
 ---
 
-## 3. Thử làm theo
+## 3. Thử làm theo (Lớp 3 + Bài tập)
 
-**Bài tập 1 — So sánh D3–A3 và D3–C4:**
+### Hack #1 & #2 — Hiểu được
 
-Dòng lệnh (Lớp 1): "gõ D3 rồi gõ A3, để hai tiếng vang nối tiếp nhau... rồi gõ D3 lần nữa, tiếp theo là C4. So sánh hai cặp."
+- **Hack #1:** Không nhớ số nửa cung, cứ nhớ hai mốc D3–A3 (gần, 7 nửa cung) và D3–C4 (xa, 10 nửa cung). → **OK, tôi sẽ làm như vậy.**
+- **Hack #2:** Tự hỏi "dính hay mở?" trước "quãng gì?". Tai trả lời trước, lý thuyết sau. → **OK, tôi không cần nhớ số.**
 
-Tôi hiểu:
-- Tìm Ding (D3) ở tâm sơ đồ (dấu ◉)
-- Gõ Ding, chờ cho âm vang lắng
-- Tìm A3 ở ô ① (bên phải), gõ
-- Nghe sự khác biệt giữa hai âm
-- Lặp lại với C4 ở ô ③
-- So sánh: cặp nào nghe gần/xa hơn
+### Bài tập 1 — So sánh D3–A3 và D3–C4
 
-**Thực hiện được:** Có, nếu hiểu đúng sơ đồ. Nhưng lưới bài tập có hai dòng (A3 và Ding) — tôi không 100% chắc là gõ lần lượt hay cùng lúc. Và tôi không biết bao lâu là "một nhịp" để chờ (4 cột = bao giây?).
+**Tôi sẽ đưa tay làm gì:**
+1. Nhìn sơ đồ (dòng 17-30), tìm Ding (D3) ở giữa (◉).
+2. Gõ Ding bằng tay phải.
+3. Chờ khoảng 4 cột (= 1 nhịp), để tiếng vang.
+4. Nhìn sơ đồ, tìm A3 (ô ①, bên phải).
+5. Gõ A3.
+6. Nghe và ghi nhớ cảm giác.
+7. Lặp lại: gõ Ding, chờ, gõ C4 (ô ③, bên phải).
+8. So sánh hai cảm giác: cặp nào nghe gần, cặp nào nghe xa?
 
-**Bài tập 2 — Chuỗi D3–E4–F4–G4–A4:**
+**Thực hiện được:** Có, nếu tôi biết sơ đồ chính xác. Nhưng **chỗ mù:** bao lâu là "chậm"? Tôi không biết gõ nhanh hay chậm, chỉ biết là "chậm" từ gợi ý tốc độ.
 
-Dòng lệnh: "gõ liên tiếp D3–E4–F4–G4–A4, mỗi nốt để ngân đủ một nhịp rồi mới gõ nốt kế tiếp."
+### Bài tập 2 — Chuỗi D3–E4–F4–G4–A4
 
-Tôi hiểu:
-- Gõ D3 (Ding ở tâm) lần đầu tiên
-- Chờ 1 nhịp, gõ E4
-- Chờ 1 nhịp, gõ F4
-- Chờ 1 nhịp, gõ G4
-- Chờ 1 nhịp, gõ A4
-- Nghe cảm giác, tìm chỗ "dính" (khác lạ so với các cặp khác)
+**Tôi sẽ đưa tay làm gì:**
+1. Gõ D3 (Ding, tâm trống, tay phải).
+2. Chờ 1 nhịp.
+3. Gõ E4 — **nhưng ở đâu?** Sơ đồ ghi ⑤, lưới ghi "5". Tôi không chắc.
+4. Chờ 1 nhịp.
+5. Gõ F4 — **ở đâu?** Sơ đồ ghi ⑥, lưới ghi "6".
+6. Chờ 1 nhịp, gõ G4 (sơ đồ ⑦, lưới "7").
+7. Chờ 1 nhịp, gõ A4 (sơ đồ ⑧, lưới "8").
+8. Lắng nghe toàn bộ chuỗi, tìm chỗ nghe **"dính"** — **nhưng "dính" là cảm giác gì?**
 
-**Thực hiện được:** Có vòng ngoài, nhưng không biết gõ ở đâu. E4 trên sơ đồ là ô ⑤, F4 là ⑥, G4 là ⑦, A4 là ⑧. Tôi có thể nhìn sơ đồ và gõ. Nhưng lưới (dòng 89-103) ghi "5 · E4", "6 · F4", "7 · G4" — những con số này có phải là ô số không? Nếu là, thì sao không ghi ⑤ như sơ đồ? Sự không nhất quán này làm tôi bối rối.
+**Thực hiện được:** Có vòng ngoài, nhưng không chắc vì:
+- Không biết chính xác vị trí E4, F4, G4, A4 trên trống.
+- Không hiểu cảm giác "dính" là gì, nên không biết sẽ nghe "cái gì".
+- Nếu gõ xong mà không nghe thấy chỗ nào khác lạ, tôi sẽ không biết tôi có gõ sai hay tai tôi kém.
 
-**Điểm chưa rõ:** Bài tập yêu cầu nghe "chỗ nào nghe dính hơn hẳn các chỗ khác". Nhưng tôi chưa từng nghe "dính" trong âm nhạc. Nếu tôi gõ xong mà không nghe thấy chỗ nào khác biệt, tôi sẽ nghĩ tôi gõ sai hay tôi tai kém. Không có cách kiểm chứng.
+**→ Điểm mù:** Bài tập 2 là "tìm kiếm" chứ không phải "luyện tập có hướng dẫn rõ ràng".
 
 ---
 
-## 4. Bài kiểm tra 10 tuổi
+## 4. Bài kiểm tra 10 tuổi (Lớp 2, dòng 36-42)
 
-**Lớp 2 — Tóm tắt 30 giây (dòng 36-43):**
-
-Đọc lại:
-- Quãng = khoảng cách 2 nốt, đo bằng nửa cung. Số nhỏ = nghe dính, số lớn = nghe mở. ✓
-- Cung = 2 nửa cung, phổ biến nhất. ✓ (nhưng "nửa cung" vẫn chưa rõ)
+**Tôi đọc lại Lớp 2:**
+- Quãng = khoảng cách 2 nốt, đo bằng nửa cung. ✓
+- Số nhỏ = nghe "dính", số lớn = nghe "mở". ✓ (nhưng "dính" vẫn mơ hồ)
+- Cung = 2 nửa cung, phổ biến nhất. ✓
 - D3–A3 = 7 nửa cung (gần), D3–C4 = 10 nửa cung (xa). ✓
-- Gõ 2 cặp, so sánh gần/xa. ✓
-- Gõ chuỗi 5 nốt, nghe "dính". ✓ (nhưng "dính" là cảm giác gì?)
+- Gõ 2 cặp, so sánh. ✓
+- Gõ chuỗi 5 nốt, nghe "dính". ✓ (nhưng chưa biết đó là cái gì)
 
-**Hiểu ý chính được không?** Khoảng 70%. Tôi hiểu quãng là khoảng cách, con số càng lớn nghe càng xa. Nhưng "nửa cung" là đơn vị nào, "cảm giác dính" là gì, tôi vẫn mơ hồ.
+**Đứa trẻ 10 tuổi có hiểu được ý chính không?** Có, khoảng 75%. Ý chính là: quãng = khoảng cách, số lớn nghe xa, số nhỏ nghe gần. Hành động là gõ 2 cặp, so sánh, và gõ chuỗi 5 nốt để tìm chỗ khác biệt.
 
-**Câu quá khó:**
-- "Quãng là khoảng cách giữa hai nốt, đo bằng số **nửa cung**" — từ "nửa cung" được dùng như đã biết, nhưng đứa trẻ 10 tuổi sẽ hỏi "nửa cung là cái gì?" Câu này không trả lời.
-- "Gõ chuỗi D3–E4–F4–G4–A4, chú ý chỗ nào nghe **dính hơn hẳn**" — "dính" là cảm giác gì? Chưa được giải thích trước.
+**Câu nào quá khó cho 10 tuổi?**
+- "Quãng là khoảng cách giữa hai nốt, đo bằng số **nửa cung**" — từ "nửa cung" chưa được giải thích trước, 10 tuổi sẽ hỏi "nửa cung là gì?"
+- "Gõ chuỗi D3–E4–F4–G4–A4, chú ý chỗ nào nghe **dính hơn hẳn**" — từ "dính" chưa có ví dụ cảm giác thực tế, 10 tuổi sẽ không biết nó nghe như thế nào trước khi gõ.
 
-**Kết luận:** Đứa trẻ 10 tuổi hiểu được hành động (gõ 2 cặp, so sánh) nhưng chưa hiểu bản chất (nửa cung là đơn vị gì, tại sao "dính").
+**Kết luận:** Lớp 2 OK về hành động, nhưng chưa rõ về bản chất ("nửa cung" là đơn vị nào?, "dính" là cảm giác gì?).
 
 ---
 
 ## 5. Cảm giác
 
-**Muốn cầm trống lên chơi không?**
+### Muốn cầm trống lên chơi không?
 
-- Ẩn dụ "khoảng cách nói chuyện" rất sinh động, khiến tôi hiểu "quãng" một cách tự nhiên.
+**Có, nhưng chưa tự tin.**
+
+**Lý do muốn:**
+- Ẩn dụ "khoảng cách nói chuyện" (đứng gần vs cách xa) rất sống động, khiến tôi hình dung được quãng là gì.
 - Bài tập 1 nghe đơn giản: chỉ gõ 2 cặp, so sánh gần/xa.
-- Dòng "người chơi giỏi không cần thuộc lòng bảng số — chỉ cần nghe nhiều" khích động, nói rằng tôi không cần xuất phát điểm cao.
+- Hack #2 ("Tai trả lời trước, lý thuyết sau") khích động, nói tôi không cần nhớ số mà chỉ cần nghe — cảm giác "bình thường" hơn, không như học lý thuyết khô khan.
+- Dòng "người chơi giỏi không cần thuộc lòng bảng số — chỉ cần nghe nhiều, gõ nhiều" khiến tôi cảm thấy: ồ, tôi không cần hoàn hảo từ đầu, chỉ cần bắt đầu.
 
-**Nhưng:**
+**Lý do lo lắng:**
+- Bài tập 2 yêu cầu tôi nghe "dính", cảm giác này chưa được giới thiệu rõ. Nếu tôi gõ xong không nghe thấy chỗ nào khác biệt, tôi sẽ cảm thấy nản hoặc tự ti (có phải tôi gõ sai hay tai tôi kém?).
+- Vị trí E4, F4, G4, A4 trên trống không rõ → bài tập 2 sẽ là "tìm kiếm tù mù" thay vì "luyện tập có hướng dẫn".
+- Chương nhiều lần nhắc "chương 6" (D thứ tự nhiên, quy luật zigzag) nhưng tôi chưa đọc → cảm giác mảnh ghép chưa hoàn chỉnh, nền tảng chưa vững.
+- Chương kết thúc bằng "chương 8 sẽ gọi tên nó" (chỗ dính) → tôi bị để "lơ lửng", chưa được đóng lại vòng câu hỏi.
 
-- Bài tập 2 yêu cầu tôi nghe "dính", cảm giác chưa được giới thiệu trước. Nếu tôi gõ xong không nghe thấy, tôi sẽ nản.
-- Vị trí E4, F4, G4 không rõ ràng → bài tập sẽ là "tìm kiếm" thay vì "luyện tập có hướng dẫn".
-- Chương cứ nhắc "chương 6" mà tôi không được đọc → cảm giác mảnh ghép lóng ngóng, thiếu nền tảng.
+### Tóm tắt cảm giác
 
-**Tổng cảm:** 55% hứng thú, 45% lo lắng.
-
-Muốn gõ bài tập 1 (so sánh gần/xa) ngay, nhưng sợ không biết làm bài tập 2 như thế nào. Không nản lòng, nhưng chưa tự tin.
+**Muốn gõ bài tập 1 ngay,** nhưng sợ bài tập 2 sẽ khó. Không nản lòng, nhưng chưa tự tin 100%. Cảm giác là: "tôi có thể thử, nhưng có thể sẽ bị tắc ở bài 2".
 
 ---
 
@@ -124,8 +138,8 @@ Muốn gõ bài tập 1 (so sánh gần/xa) ngay, nhưng sợ không biết làm
 
 | Mục | Tình trạng |
 |---|---|
-| **Chỗ tắc** | 6 chỗ; chủ yếu liên quan tới vị trí các nốt, cảm giác "dính", định nghĩa "bậc" |
-| **Từ lạ** | 7 từ/khái niệm; "nửa cung", "bậc", "D thứ tự nhiên" chưa rõ |
-| **Thử làm theo** | Bài tập 1 có thể làm; bài tập 2 không chắc gõ ở đâu, "dính" là cảm giác gì |
-| **Test 10 tuổi** | Hiểu hành động, chưa hiểu bản chất; "nửa cung" và "dính" là "hộp đen" |
-| **Cảm giác** | Muốn thử bài 1, lo lắng về bài 2; không nản, nhưng chưa tự tin |
+| **Chỗ tắc** | 7 chỗ: "tone field", số trong lưới, vị trí E4-F4-G4-A4, "một nhịp", gõ lần lượt/cùng lúc, cảm giác "dính", "D thứ tự nhiên" |
+| **Từ lạ** | 7 từ: "tone field", "nửa cung" (cảm giác), "cung", "bậc", "D thứ tự nhiên", "chủ âm", "zigzag" |
+| **Thử làm theo** | Bài 1 OK (nếu biết sơ đồ). Bài 2 bị tắc: vị trí các nốt không rõ, cảm giác "dính" chưa biết |
+| **Test 10 tuổi** | Hiểu hành động (gõ, so sánh), chưa hiểu bản chất ("nửa cung", "dính") |
+| **Cảm giác** | Muốn thử 80%, lo lắng 20%. Bài 1 tự tin, bài 2 có chỗ mù |
