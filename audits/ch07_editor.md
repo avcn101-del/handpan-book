@@ -4,23 +4,17 @@
 (không có)
 
 ## MAJOR
-
-- **Xung đột thuật ngữ "bậc"**: Chương 6 đã dạy chắc "bậc" = số thứ tự nốt trong thang D thứ (D=bậc 1, E=bậc 2… chỉ có 7 giá trị, xem `facts/glossary.md`). Chương 7, ở Lớp 1 đoạn "cầu thang" (dòng 9) và đoạn hai mốc (dòng 11), lại dùng chính từ "bậc" (và cụm "bậc thang nhỏ") để đếm **nửa cung** — một đơn vị hoàn toàn khác, không giới hạn 7 giá trị. Ví dụ nguy hiểm nhất: D3→A3 là "bậc 5" theo nghĩa chương 6 (D-E-F-G-A) nhưng chương 7 gọi đúng cặp đó là "bảy bậc thang nhỏ". Hai con số 5 và 7 cho cùng một cặp nốt, cùng dùng từ "bậc", rất dễ khiến người mới nhầm hai khái niệm làm một.
-  → Sửa: đổi từ dùng cho đơn vị cầu thang-nửa-cung sang một từ khác không trùng với glossary, ví dụ "nấc" thay vì "bậc": "mỗi nấc cao vừa đủ một bước chân bé xíu… nốt kế tiếp là nấc ngay phía trên. Bước lên đúng một nấc — đó là một nửa cung" và "bảy nấc thang nhỏ" / "mười nấc thang nhỏ" thay cho "bậc thang nhỏ". Giữ nguyên "bậc" chỉ khi nói đúng nghĩa chương 6 (bậc 1, bậc 2…) như đoạn dòng 7 đang làm đúng.
-
-- **Nợ khái niệm ngoài spec — "quãng 5 đúng" / "quãng 7 thứ"** (dòng 11): Spec chỉ cho phép giới thiệu "Quãng" và "Nửa cung/Cung" (mục "Khái niệm chương này giới thiệu"), và "Được phép dùng" không có tên loại quãng (đúng/thứ/trưởng…). Câu "Nhân tiện, nếu có ai nói với bạn đây là 'quãng 5 đúng'... 'quãng 7 thứ'..." cấy vào đầu người đọc một tầng thuật ngữ chưa được sư phạm hoá (chất lượng quãng), vốn là nguyên liệu thường dùng để dựng hợp âm — đúng phần bị cấm đụng của chương 9. Bản thân câu văn cũng tự thừa nhận "bạn chưa cần nhớ", tức là không phục vụ mục tiêu học nào của chương này.
-  → Sửa: cắt hẳn câu "Nhân tiện, nếu có ai nói với bạn đây là 'quãng 5 đúng'... đứng trước nó." Giữ lại đúng hai con số 7 và 10, không gắn tên loại quãng.
+- **Lớp 1 sát/hụt ngưỡng tối thiểu 1200 từ.** Đếm tay theo từng đoạn (8 đoạn văn, từ "Bạn thử nhớ lại..." tới "...không còn phải đoán mò.") ra tổng khoảng **~1194 từ** — dưới mốc 1200 hoặc chỉ sát mép, tuỳ sai số đếm tay. Đây là ranh giới hẹp nên cần đếm lại bằng công cụ tự động (`wc -w` hoặc script đếm từ của dự án) để xác nhận chính xác. → Nếu xác nhận dưới 1200: bổ sung khoảng 50-100 từ, gợi ý chỗ thêm là đoạn 6 (đoạn nói về A3/C4 trên sơ đồ) — có thể mở rộng thêm 1-2 câu mô tả cụ thể hơn cảm giác "tay cùng bên nhưng tai nghe khác quãng" bằng một ví dụ thứ hai (ví dụ so sánh thêm cặp D3–D4 để đối chiếu quãng tám với hai cặp đã nêu), vừa tăng từ vừa củng cố "hình dung bằng chữ".
 
 ## MINOR
-
-- **Hack #2 (Lớp 3)** hơi trùng lặp với nội dung đã nói ở Lớp 1 ("tai trả lời trước, lý thuyết trả lời sau") hơn là một mẹo hành động mới — cân nhắc gộp chung với Hack #1 hoặc thêm một hành động cụ thể hơn (ví dụ: mỗi lần nghe một bài hát bất kỳ, thử đoán "dính" hay "mở" ở đoạn chuyển câu).
-- Đoạn mở bài (ẩn dụ khoảng cách nói chuyện) hơi dài so với phần còn lại — có thể rút bớt 1-2 câu để nhường chỗ, không bắt buộc.
+- **Bb3 nằm trong "Nốt / hợp âm sẽ dùng" của spec nhưng không xuất hiện ở bất kỳ đâu trong chương** (Lớp 1, Lớp 2, Lớp 3, cả hai bài tập đều bỏ qua Bb3). Có vẻ là lựa chọn có chủ đích để tránh đụng "Cấm đụng: nhấn mạnh riêng cặp A3–Bb3" — hợp lý, nhưng nên ghi chú lại (ví dụ trong Móc nối hoặc note nội bộ) lý do bỏ Bb3 để lần soát sau không tưởng là thiếu sót. Không chặn chương vì mục tiêu học vẫn đạt trọn vẹn mà không cần Bb3.
+- **Lớp 2 chỉ có 2/5 gạch đầu dòng in đậm từ khoá** (bullet 1 "Quãng"/"nửa cung", bullet 2 "Cung" có bold; bullet 3-5 không có từ nào in đậm). → Sửa: in đậm ít nhất một từ khoá mỗi bullet, ví dụ bullet 3: "Từ Ding (D3): D3–A3 cách **7 nửa cung**, D3–C4 cách **10 nửa cung**".
+- **Hack #2 ("dính hay mở trước, quãng gì sau") hơi mềm so với Hack #1** — vẫn dùng được ngay (không cần nhớ lý thuyết) nhưng gần với một lời khuyên tư duy hơn là một mẹo thao tác cụ thể. Không tới mức MAJOR vì không yêu cầu người đọc nhớ số nửa cung hay quy tắc gì để áp dụng, nhưng nếu muốn sắc hơn có thể gắn thêm một hành động cụ thể, ví dụ: "nếu thấy dính hơn D3–A3 → xoè bàn tay ra thêm một nốt đệm; nếu mở hơn D3–C4 → để khoảng lặng dài hơn trước khi gõ tiếp" — biến cảm nhận thành một quyết định chơi đàn cụ thể.
+- **Bài tập 2 ở Lớp 1 không mô tả bằng chữ việc tay đổi bên (trái/phải) khi chạy chuỗi D3–E4–F4–G4–A4** — thông tin đổi tay chỉ xuất hiện ở hàng `Tay` trong lưới Lớp 3, không được "hình dung bằng chữ" ở Lớp 1 như đoạn A3/C4 phía trên đã làm rất tốt. Có thể thêm 1 câu ngắn kiểu: "Tay bạn cũng đang nhảy qua nhảy lại theo từng nốt trong chuỗi này — cứ để nó tự nhảy, không cần nghĩ, chỉ tai mới cần chú ý." Không chặn chương vì bài tập vẫn chơi được đúng nhờ lưới, chỉ là bỏ lỡ một chỗ minh hoạ tốt.
 
 ## Chuyển fact-checker
+- Xác nhận D3→A3 = 7 nửa cung, D3→C4 = 10 nửa cung đúng với facts/dkurd.md mục 5 (có vẻ khớp khi đối chiếu nhanh, nhưng đây là việc của fact-checker kết luận chính thức).
+- Xác nhận gán tay P/T trong lưới bài tập 2 (`sach_ch07_bai2`): Ding=P, E4=P, F4=T, G4=P (Ô1), A4=T (Ô2) — có khớp quy tắc "lẻ=phải, chẵn=trái" và có hợp lý về mặt kỹ thuật khi hai nốt liên tiếp cùng bên (Ding→E4 đều P) không.
+- Xác nhận việc gọi D3-E4-F4-G4-A4 là "năm nốt đầu tiên tính theo bậc 1-2-3-4-5" đúng theo bảng bậc ở facts mục 5 (D=1, E=2, F=3, G=4, A=5).
 
-- Xác nhận D3→A3 = 7 nửa cung và D3→C4 = 10 nửa cung (chương tự nêu và khớp với cảnh báo trong spec, nhưng vẫn cần xác nhận theo `facts/dkurd.md`).
-- Xác nhận tên gọi "quãng 5 đúng" (D3–A3) và "quãng 7 thứ" (D3–C4) có đúng nhạc lý không, phòng khi biên tập viên chỉ đề nghị cắt chứ chưa xác minh đúng/sai để tránh sai sót lan sang bản sửa.
-- Xác nhận A3 (ô ①) và C4 (ô ③) đúng là hai tone field gần Ding nhất mà tay chạm tới đầu tiên khi rời tâm trống (câu ở Lớp 1, đoạn mô tả sơ đồ) — đây là khẳng định về vị trí vật lý, cần đối chiếu `facts/dkurd.md`.
-- Xác nhận chuỗi tay P-P-T-P-T cho D3(Ding)-E4-F4-G4-A4 ở Bài tập 2 (Lớp 3, `sach_ch07_bai2`) khớp đúng bên trái/phải thật của E4, F4, G4, A4 trên sơ đồ mặt trống (đối chiếu ASCII trong `facts/dkurd.md`, không suy luận từ trí nhớ).
-
-## KẾT LUẬN: SỬA (0 blocker, 2 major)
+## KẾT LUẬN: SỬA (0 blocker, 1 major)
